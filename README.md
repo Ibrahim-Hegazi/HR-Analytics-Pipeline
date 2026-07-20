@@ -143,7 +143,9 @@ This project implements an end-to-end data quality framework and analytics pipel
 
 ## 👨‍💻 Author
 Ibrahim Hegazi
+
 Data & Analytics Engineer
+
 ihegaziwork@gmail.com
 
 ## 📬 Future Improvements
