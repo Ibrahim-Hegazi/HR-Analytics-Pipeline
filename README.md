@@ -1,7 +1,7 @@
 # HR Data Quality Framework & Analytics Pipeline
 
 ## 🔎 Project Overview
-This project implements an end-to-end data quality framework and analytics pipeline for employee data ingested from multiple source formats (TXT, Excel, JSON, XML) into Microsoft Fabric. The pipeline standardizes, validates, cleans, and models the data into a star schema for reporting and analytics.
+This project implements an end-to-end data quality framework and analytics pipeline for employee data ingested from multiple source formats (TXT, Excel) into Microsoft Fabric. The pipeline standardizes, validates, cleans, and models the data into a star schema for reporting and analytics.
 
 ## 🚀 Project Goals
 - Ingest employee data from heterogeneous source files into a centralized lakehouse
@@ -75,3 +75,81 @@ This project implements an end-to-end data quality framework and analytics pipel
 | 12. Visualization | Power BI dashboards and reports for analytics | ✅ Complete |
 
 ## 🧬 Data Flow Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📦 Tech Stack
+| Component | Technology |
+|---|---|
+| Cloud Platform | Microsoft Fabric |
+| Lakehouse | Fabric Lakehouse |
+| Warehouse | Fabric Warehouse |
+| Ingestion/Transformation | PySpark, Pandas |
+| Data Quality | Python (pandas, numpy) |
+| Data Modeling | Dataflow Gen2 (Power Query M) |
+| Visualization | Power BI |
+| Version Control | GitHub / Fabric Git Integration |
+
+## 🛠️ Setup & Installation
+1. Create a Fabric workspace
+2. Create a Lakehouse (`HR_Analytics_Lakehouse`)
+3. Create a Warehouse (`HR_Analytics_Warehouse`)
+4. Upload source files to `Files/` directory
+5. Import notebooks and configure Lakehouse connection
+6. Run notebooks in order: Ingestion → Data Quality → Combine
+7. Configure Dataflow Gen2 with source pointing to `STG.employee_combined_cleaned_data`
+8. Publish and refresh Dataflow
+9. Build semantic model and reports in Power BI
+
+## 📊 Datawarehouse Schema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🗓 Roadmap
+- [x] Phase 1-5: Data quality checks (Format, Validity, Completeness, Uniqueness, Consistency)
+- [ ] Phase 6-9: Remaining checks (Accuracy, Domain, Referential, Timeliness)
+- [x] Data modeling (Star schema via Dataflow Gen2)
+- [x] Power BI semantic model
+- [ ] Incremental refresh configuration
+- [ ] Monitoring and alerting for data quality metrics
+
+
+## 👨‍💻 Author
+Ibrahim Hegazi
+Data & Analytics Engineer
+ihegaziwork@gmail.com
+
+## 📬 Future Improvements
+- Automate data quality checks with Fabric Data Pipelines
+- Implement SCD Type 2 for slowly changing dimensions
+- Add data quality scorecards and dashboards
+- Integrate with Microsoft Purview for data governance
+- Build real-time alerts for data quality failures
+- Expand to additional HR data sources (payroll, performance, recruitment)
