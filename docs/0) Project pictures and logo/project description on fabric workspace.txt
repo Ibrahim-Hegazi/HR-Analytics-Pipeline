@@ -1,0 +1,3 @@
+The HR Analytics Pipeline is an end-to-end data project that transforms raw employee data into actionable workforce insights. Starting with data ingestion into Microsoft Fabric, the pipeline progresses through exploratory data analysis (EDA), rigorous data cleaning, and feature engineering—culminating in an interactive visualization dashboard.
+
+This project demonstrates a complete analytics lifecycle, from raw HR records (including employee demographics, salary, job titles, departments, and education levels) to business-ready insights on workforce trends, compensation patterns, and talent distribution. Built entirely on Microsoft Fabric, it showcases modern data engineering and analytics capabilities in a unified SaaS platform.

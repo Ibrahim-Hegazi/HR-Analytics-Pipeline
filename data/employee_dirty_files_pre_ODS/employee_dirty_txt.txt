@@ -1,0 +1,1001 @@
+emp_id|full name|fname|lname|birth_date|dept_name|country|monthly_salary|sex|job title|employee_status|education
+100001|Omar Williams|Omar|Williams|09-Dec-2003|Safety|GB|EGP 7,312.25|Male|Safety Officer|External|BSc
+100002|Reem Kamal|Reem|Kamal|1981/08/13| Accounting |PH|3876.75|FEMALE|Sales Executive|Terminated|MBA
+EMP100003|Layla Johnson|Layla|Johnson|06-12-2002|Health & Safety|United Arab Emirates|7194.00|FEMALE|Business Analyst|CONT|high school
+100004|Saad Khan|Saad|Khan|13-Jun-1990|Logistics|Pakistan|26509|Female|Safety Officer| Contractor |MBA
+100005|Noora Miller|Noora|Miller|1977/05/22| Supply Chain | uk |18727|F|Sales Executive|Active|DIP
+100006|MONA JONES|Mona|Jones|24/12/2003|SALES|PH|10,444| f |HR Specialist| Terminated |bachelor
+100007|Martinez, Hamad|Hamad|Martinez|15/08/1967|Manufacturing|GB|24977|MALE|Business Analyst|Contractor|Master
+100008|YOUSSEF NASSER|Youssef|Nasser|1996-12-08| Marketing |United States|QAR 41,626.25|MALE|Supply Chain Coordinator| Probation |master
+100009|Mona Jones|Mona|Jones|10-17-1976|Health & Safety|Jordan|36943|Female|Sales Executive|ACT| High School 
+100010|Al-Salem, Khalid|Khalid|Al-Salem|25/12/1977|sales| Pakistan |44980.5|Male|Business Analyst|active|DIP
+100011|Layla Al-Thani|Layla|Al-Thani|1978-10-23|Manufacturing|Jordan|15950.00|Male|IT Support| Terminated |Doctorate
+100012|Laila Williams|Laila|Williams|16/12/1995|SALES| uk |$3,562.25|FEMALE|Accountant|terminated|Diploma
+100013|Nasser, Mona|Mona|Nasser|2000/08/17|Sales|PAK|41,376|1|Production Operator|Probation|Secondary
+100014|Brown, David|David|Brown|10-Nov-1996|Sales Dept|UK|EGP 25,727.25|Male|Sales Executive|ACT|HS
+100015|Hassan Al-Salem|Hassan|Al-Salem|09/11/1993|marketting|saudi arabia|38820.25|male|Business Analyst| Contractor |Secondary
+100016|Abdullah Al-Farsi|Abdullah|Al-Farsi|21/01/1970|HR|Egypt|20690.75|2|Project Manager|A|phd
+100017|Tamer Al-Thani|Tamer|Al-Thani|17-Jan-1982| Environmental |Jordan|36948|male|Supply Chain Coordinator|On Leave|PHD
+100018|Mahmoud Johnson|Mahmoud|Johnson|1985/09/03|SALES|United States|44876.5|2|Project Manager|contractor|PhD
+100019|Aya Patel|Aya|Patel|10/09/1991|Safety|pakistan|40,324|female|Supply Chain Coordinator|probation|BSc
+100020|Aisha Brown|Aisha|Brown|1992-07-07|I.T.|Emirates|20834.25|male|Sales Executive|active| Master 
+100021|Smith, Robert|Robert|Smith|20-Dec-1967|ops|PH|QAR 33,215.75|Female|Accountant|Active|phd
+100022|ABDULLAH WILLIAMS|Abdullah|Williams|unknown| IT |United States of America|31305.75| f |Data Engineer|Active|bachelor
+100023| Karim  Martinez |Karim|Martinez|03-15-1971|mktg|JO|$15,302.00|female|Environmental Engineer|ON_LEAVE|phd
+100024|Youssef Martinez|Youssef|Martinez|30/10/1999| safety |SA|34541.50| m |Marketing Analyst|Probation|diploma
+100025|James Kamal|James|Kamal|10-Jun-1978|Health & Safety|SA|13,350|Female|Environmental Engineer|Leave|MBA
+EMP100026|Robert Nasser|Robert|Nasser|12/08/1977|ENV|United States|17132.25|M|IT Support|ACT|Doctorate
+100027|Ahmed Johnson|Ahmed|Johnson|02-08-1992| Supply Chain |PK||F|IT Support|New Hire|BSc
+100028|Mahmoud Williams|MAHMOUD|Williams|12/05/2002| HR |Saudi Arabia|30134.75|female|Production Operator|contractor|BA
+100029|Ali Patel|Ali|Patel|26-Oct-1997|sales|Qatar|QAR 26,796.25|Female|IT Support| On Leave |DIP
+100030|Hamad Moore|Hamad|Moore|1987/05/10| Supply Chain |Britain|16699.75|Female|Supply Chain Coordinator|TERM|BA
+100031|Hassan Miller|Hassan|Miller|1985-05-25|Sales|Emirates|QAR 36,196.25|Male|HR Specialist| Terminated |MBA
+100032|Aya Al-Mansoori|Aya|Al-Mansoori|01/02/1987|Prod|Philippines|EGP 23,256.50| f |Data Engineer|probation| PhD 
+100033|MAHMOUD KAMAL|Mahmoud|Kamal|24-May-1972|human resources| Qatar |12,652|MALE|Production Operator|On Leave|high school
+100034|Patel, Karim|Karim|Patel|1986/06/04|Sales Dept|EGY|21958.25|2|Data Engineer| Active |master
+100035|Aisha Garcia|Aisha|Garcia|29/12/1995|Prod|india|15668.75| m |Accountant|New Hire|BSc
+100036|James Moore|James|Moore|16-Feb-1985|HR|IND|36701.75| m |IT Support|Active|master
+100037|Sara Wilson|Sara|Wilson|07-22-1989|mktg|QAT|44022.00|FEMALE|Environmental Engineer|on leave|Secondary
+100038|Tamer Johnson|Tamer|Johnson|08-May-1970|IT|GB||female|IT Support|probation| Diploma 
+100039|Maha Khan|Maha|Khan|05/08/1994|Sales|philippines|13419.75| f |Marketing Analyst|Active|PHD
+100040| Hassan  Martinez |Hassan|Martinez|02-28-1976| Supply Chain |jordan|37911.5|Female|Sales Executive|probation|BA
+100041|David Mahmoud|David|Mahmoud|30-Apr-1985| IT |india|EGP 8,871.00|FEMALE|Business Analyst|On Leave|PhD
+100042|James Johnson|James|Johnson|01/03/1985|IT| Qatar |17894.25|2|Business Analyst| Contractor |Doctorate
+100043|DINA BROWN|Dina|Brown|05/01/1979|H.R.|Philippines|26738.5|F|Business Analyst|Leave| Diploma 
+100044|Youssef Al-Salem|Youssef|Al-Salem|1987-08-11|Prod|PAK|EGP 31,113.00|female|IT Support| Probation | Bachelor 
+100045|Aisha Brown|Aisha|Brown|1977/11/06|Sales Dept|United States of America|25652.25|Female|Business Analyst|probation|BSc
+100046|Mahmoud, Tamer|Tamer|Mahmoud|05-31-1998| Accounting |SA|8699|male|Marketing Analyst|Leave|Diploma
+100047|Nour Patel|Nour|Patel|30-Oct-1970| Supply Chain | Philippines |N/A|Female|Project Manager|PROB|BA
+100048|Karim Al-Mansoori|KARIM|Al-Mansoori|1973-02-17|Manufacturing|pakistan|40396|female|Accountant| Terminated |Dipl.
+100049|Hassan Ibrahim|Hassan|Ibrahim|06-25-2000| production |Britain|23735.25|M|Marketing Analyst||HS
+100050|Aya Al-Salem|Aya|Al-Salem|1977/09/25|Operation|JOR|27470.5|female|Supply Chain Coordinator| Active |High School
+EMP100051|Sophia Adel|Sophia|Adel|1999-11-16|I.T.|JO|$22,412.25|2|HR Specialist|on leave|diploma
+100052|Farah Johnson|Farah|Johnson|1990-03-16|EHS|United Arab Emirates|44742.75|MALE|Marketing Analyst|On Leave|Dipl.
+100053|Mohamed Hassan|Mohamed|Hassan|01-17-1988|I.T.|Jordan|QAR 44,470.00| m |Project Manager|On Leave|BSc
+100054|Karim Taylor|Karim|Taylor|04-24-1969|human resources|UAE||FEMALE|Environmental Engineer|probation|bachelor
+100055|Nour Al-Salem|Nour|Al-Salem|20-May-1965|env.| Qatar |40992|1|Sales Executive|ON_LEAVE|HS
+100056|Aya Moore|Aya|Moore|09/12/1972|ENV|JO|18217.00|female|Project Manager|Terminated|bachelor
+100057|Maha Garcia|Maha|Garcia|1975-08-13|Fin.|egypt|-17009.75|FEMALE|HR Specialist|probation|PHD
+100058|Omar Al-Kuwari|Omar|Al-Kuwari|| Accounting |IN|-13905|FEMALE|Marketing Analyst|active|diploma
+100059|Mariam Martinez|Mariam|Martinez|04-12-1981|Logistics|India|$34,862.25|Male|Project Manager|New Hire|Master
+EMP100060|Noora Al-Harbi|Noora|Al-Harbi|1980/03/17|Human Resources| usa |32035.5|female|Business Analyst|Terminated| Bachelor 
+100061|Aya Brown|Aya|Brown|20-Mar-1988|mktg|United States of America|16142|1|HR Specialist|probation|master
+100062|Hamad Johnson|Hamad|Johnson|10/12/1998|mktg|JOR|QAR 29,761.75|F|Safety Officer|CONT|Secondary
+100063|John Farouk|John|Farouk|1995-09-21|ENV|Emirates|$36,016.25|F|Data Engineer|active|master
+100064| Fatima  Ibrahim |Fatima|Ibrahim|1976/08/31|Logistics|Egypt|17723.25| m |Sales Executive||BSc
+100065|Faisal Moore|Faisal|Moore|03-Mar-1968| Marketing |PH|QAR 16,661.25|2|Project Manager|Active|BA
+100066| James  Al-Kuwari |James|Al-Kuwari|1980/06/27|FIN| Jordan |44166.75|F|Project Manager|active|Dipl.
+100067|Aya Johnson|Aya|Johnson|10-26-1972|MKT|United Arab Emirates|4293.25|2|Data Engineer| Probation |master
+100068|Ali Moore|Ali|Moore|07/04/1965| Supply Chain | Philippines |12259.5| m |Supply Chain Coordinator|New Hire|high school
+EMP100069|Michael Al-Thani|Michael|Al-Thani|1983-12-19|OPS|Philippines|44148.75|Male|Accountant|ACT|bachelor
+100070|James Brown|James|Brown|1984/04/01|Logistics|US|$35,856.25| f |Marketing Analyst|New Hire| Diploma 
+100071|Karim Al-Kuwari|Karim|Al-Kuwari|1977/08/25|ops|GB|34286.5|MALE|HR Specialist|active|Master
+100072|Tamer Martinez|Tamer|Martinez|1984/05/09|Sales Dept| Jordan |3747|female|Business Analyst|PROB| Master 
+100073|Ali Al-Farsi|Ali|Al-Farsi|1976-05-16|Environmental| Jordan |30429.25|MALE|Data Engineer|CONT|master
+100074|Al-Harbi, Maha|Maha|Al-Harbi|1991/06/16|Safety|india|22594.75|F|Safety Officer|ON_LEAVE| Master 
+100075|Farah Al-Farsi|Farah|Al-Farsi|1975/01/16|OPS|JO|5,296|Female|Accountant|Active| Bachelor 
+100076|EMILY MAHMOUD|Emily|Mahmoud|01-23-1972|Manufacturing|QAT|40816.75|1|HR Specialist| Terminated |Doctorate
+|Ali Martinez|Ali|Martinez|05-Jun-1978|HSE|GB|15674.25|M|Supply Chain Coordinator| Terminated | Master 
+100078|Khalid Al-Mansoori|Khalid|Al-Mansoori|21/07/1990|sales|AE|11307|male|IT Support|Inactive|master
+100079|Omar Al-Harbi|Omar|Al-Harbi|22-May-1987|Production|qatar|31,410|female|Project Manager|contractor| Bachelor 
+100080|NOORA PATEL|Noora|Patel|1971-12-24|Marketing| Pakistan |17635.5|FEMALE|Safety Officer|on leave|HS
+100081|Martinez, Tamer|Tamer|Martinez|1986/05/05| safety |JOR|35,545|M|Business Analyst|Contractor| Bachelor 
+100082|Faisal Al-Mansoori|Faisal|Al-Mansoori|1976/02/26|IT|PAK|25485|Male|Data Engineer|Active|High School
+100083|Laila Ibrahim|Laila|Ibrahim|08/12/1975|HR| Egypt |QAR 10,368.75|F|Safety Officer| On Leave |phd
+100084|Aisha Smith|Aisha|Smith||Finance| UAE |37905.25|Female|Supply Chain Coordinator| Probation |HS
+100085|John Nasser|John|Nasser|1992/11/13| Environmental | Jordan |41,756||Production Operator|contractor|BSc
+100086|AISHA MILLER|Aisha|Miller|1987-09-30| IT |India|| m |Project Manager|active|bachelor
+100087|Robert Jones|Robert|Jones|1965-03-12|Health & Safety|JOR|14848.75| f |Safety Officer| Active |Master
+100088|Sara Moore-Al-Farsi|Sara|Moore|01-01-1999|mktg|PK|28864.75|FEMALE|Sales Executive| Terminated | Diploma 
+100089|Farah Taylor|Farah|Taylor|26-Aug-2000|HR|KSA|44595.75|2|Production Operator| Terminated |Bachelor
+100090|Hassan Johnson|Hassan|Johnson|11-20-1981|ENV|PHL|3879|FEMALE|Production Operator|Inactive|HS
+100091|Smith, Khalid|Khalid|Smith|1999-04-21|Environment|Pakistan|41432.5|1|Production Operator|Contractor|Master
+100092|Sara Al-Kuwari|Sara|Al-Kuwari|12-Dec-1983|Operations| Philippines |31571.75|female|Sales Executive|Probation|MSc
+100093|Hassan, Mostafa|Mostafa|Hassan|1974-08-24| Commercial |egypt|EGP 25,295.75|female|Project Manager|Probation|BA
+100094|Mahmoud Patel|Mahmoud|Patel|05-04-1981|H.R.|United States|17075.5|MALE|Marketing Analyst| Active | Master 
+100095| Olivia  Martinez |Olivia|Martinez|1994/11/16|Environmental|UAE|9,992|M|Data Engineer|probation| Bachelor 
+100096|Wilson, Robert|Robert|Wilson||HR|jordan|40064|Male|Sales Executive| Probation |Bachelor
+100097|Sara Nasser|Sara|Nasser|1970/10/02|I.T.|pakistan|20732.50|MALE|Sales Executive|CONT|BSc
+100098|Fatima Smith|Fatima|Smith|26/05/1969| Supply Chain |KSA|19873.25|male|Environmental Engineer|probation|phd
+EMP100099|Ibrahim, Hamad|Hamad|Ibrahim|1971-10-15|Finance| Qatar ||male|Supply Chain Coordinator|TERM| High School 
+100100|Noora Al-Mansoori|Noora|Al-Mansoori|1979/08/01|Production|pakistan|39802.25| m |Production Operator|ACT|BSc
+100101|DAVID BROWN|David|Brown|29/03/1985|PROD|United States|14681|female|Business Analyst| Contractor |BA
+100102|Ahmed Hassan|Ahmed|Hassan|16/04/1967|Health & Safety|India|15,590|female|Production Operator|PROB|Secondary
+100103|Karim Wilson|Karim|Wilson|30-May-1985|human resources|pakistan|14666|2|Production Operator| Terminated | High School 
+100104|Aisha Al-Harbi|Aisha|Al-Harbi|06/12/1977|SALES|egypt|QAR 32,398.50|male|Data Engineer|External|bachelor
+100105|Sara Nasser|Sara|Nasser|06/12/1974|Health & Safety|saudi arabia|$21,248.75|Male|Project Manager|Active|High School
+100106|Youssef Mostafa|Youssef|Mostafa|1969-09-13| HR |PHL|$8,221.50|M|Accountant|On Leave| Diploma 
+100107| Hassan  Garcia |Hassan|garcia|05/04/1991|OPS|JO|$8,334.50| m |Supply Chain Coordinator|probation|MBA
+100108|John Adel|John|Adel|30-Apr-1993|Health & Safety|USA|$26,062.00|M|Environmental Engineer|Leave|DIP
+100109|Mohamed Taylor|Mohamed|Taylor|08/10/1982| HR |JOR|36443.5|Male|HR Specialist|terminated|Bachelor
+100110|Mostafa Jones|Mostafa|Jones|01-10-1998|FIN| Jordan |31,176|FEMALE|Marketing Analyst|Active|PhD
+100111|Tamer Ali|Tamer|Ali|10-16-1973|finance|philippines|13,506|FEMALE|Accountant| Active |High School
+100112|Sara Williams|Sara|Williams|13-Jul-1998| Commercial |UAE|QAR 34,684.50| f |IT Support|PROB|PhD
+100113|Omar Al-Thani|Omar|Al-Thani|1996/12/29|supply-chain|Jordan|40440.00|F|Safety Officer|terminated|High School
+100114|Mohamed Jones|Mohamed|Jones|16-Nov-1972|Environmental|EG|EGP 9,836.00| m |Sales Executive|terminated|Secondary
+100115|Sophia Wilson|Sophia|Wilson|02-19-2002|human resources|United Kingdom|34368.75| m |Data Engineer| Terminated | High School 
+100116|Emily Patel|Emily|Patel|19-Jul-1971|Information Technology|Emirates|21571.25|M|Sales Executive|TERM|Doctorate
+100117|Hassan Smith|Hassan|Smith|1988/11/02| IT |PAK|44479.75| f |Business Analyst|On Leave|Dipl.
+100118|Aisha Smith|Aisha|Smith|01-Jul-1967|Sales Dept|Pakistan|31275.50|Female|Accountant| On Leave |BA
+100119|David Jones|David|Jones|1996-03-02|env.|AE|N/A|1|Accountant| Contractor |PhD
+100120|Reem Al-Mansoori|Reem|Al-Mansoori|04/04/1982|SALES|SA|23013.5|F|Safety Officer|Active|high school
+100121|James Davis|James|Davis|10-02-1973|H.R.|jordan|EGP 13,901.75| m |IT Support| On Leave |MBA
+100122|EMMA AL-FARSI|Emma|Al-Farsi|1966-11-25|it|PK|5769|Female|IT Support|Inactive|MSc
+100123|Garcia, James|James|Garcia|12/03/1992|FIN| Jordan |28782.25| f |Project Manager|TERM|master
+100124|Ahmed Jones|Ahmed|Jones|2003/11/29|Prod| uk |14536.75|Female|Production Operator| Contractor |HS
+100125|Al-Kuwari, Aya|Aya|Al-Kuwari|09-28-1967|Production|IND|$35,663.75|F|HR Specialist|Level 2|CONT|MBA
+100126|Laila Patel|LAILA|Patel|2003/10/30|Marketing|SA|19487.25|1|Business Analyst|External|bachelor
+100127|Olivia Moore|Olivia|Moore|1999-02-12|human resources|EG|29728.5|Male|Business Analyst|Terminated|phd
+100128|Aisha Miller|Aisha|Miller|1973/10/13|Sales|Pakistan|24,364|1|Business Analyst|on leave|DIP
+100129|Williams, Faisal|Faisal|Williams|02-11-1995|env.|JOR|N/A|FEMALE|Production Operator|PROB|MSc
+100130| Olivia  Ali |Olivia|Ali|1990/04/09|Safety| usa |20,730|2|Safety Officer|A|diploma
+100131|Olivia Mostafa|Olivia|Mostafa|1979/05/28|finance|GB|20557.25|M|Sales Executive|Probation| PhD 
+100132|Reem Martinez|Reem|Martinez|09/06/1985| production |saudi arabia|18965.5|Male|HR Specialist|Terminated|Doctorate
+100133|Emma Williams|Emma|Williams|1976/04/11|OPS|PHL|29352.5|Male|Project Manager|Leave|High School
+100134|Olivia Mostafa|Olivia|Mostafa|1983-10-19|Production|Emirates|EGP 31,992.00| f |Data Engineer|active|Bachelor
+100135|Faisal Mostafa|Faisal|Mostafa|25-Jul-1992|H.R.|PAK|13,269|MALE|Environmental Engineer|contractor|high school
+100136|Layla Ali|Layla|Ali|1977-03-02|ops|IND|EGP 44,276.00|F|Supply Chain Coordinator|External|Master
+100137|Mona Garcia|Mona|Garcia|unknown|Logistics| Saudi |44183| f |Accountant|on leave|BA
+100138|Aisha Kamal|Aisha|Kamal|21/03/1979|MKT| Qatar |17857.75|Male|Production Operator|CONT|Master
+100139|Mahmoud Al-Harbi|MAHMOUD|Al-Harbi|09-Sep-1982|supply-chain|PH|31281.75|FEMALE|Marketing Analyst|On Leave|diploma
+100140|Mostafa Farouk|Mostafa|Farouk|03-15-1987|Manufacturing|US|15789.75|male|Environmental Engineer|CONT|Diploma
+100141|Sara Ali|Sara|Ali|31/02/1988|H.R.|United Kingdom|EGP 7,307.25|Male|Accountant|contractor| Master 
+100142|Ali Patel|Ali|Patel|17/01/1989| Supply Chain |jordan|33880.25|FEMALE|Sales Executive|Terminated|bachelor
+100143|Layla Ibrahim|Layla|Ibrahim|04-07-1994|Marketing|IND||M|HR Specialist| Terminated | PhD 
+100144| James  Johnson |James|Johnson|1997/01/29|Sales Dept|KSA|42326.75|Male|Project Manager|CONT| High School 
+100145|Ava Miller|Ava|Miller|1980-01-19|it|jordan|19,750|Male|Production Operator|Terminated|BSc
+100146|David Mostafa|David|Mostafa|27-Aug-2000| Marketing |JOR|9656|1|Data Engineer|Probation|High School
+100147| Mahmoud  Al-Harbi |Mahmoud|Al-Harbi|01/12/1989|Sales|Qatar|13039.25|2|Safety Officer|New Hire| Master 
+EMP100148|Emma Miller|Emma|Miller|04-16-1967|MKT|Qatar|15943|M|Production Operator|active|Diploma
+100149|Emma Davis|Emma|Davis|1976-05-02|Information Technology| Qatar |31457.75|Male|IT Support| Terminated |BSc
+100149|Karim Al-Farsi|Karim|Al-Farsi|1993/10/21|Finance| India |34953.75|MALE|IT Support|On Leave|master
+100151|Maha Taylor|Maha|Taylor|01-Oct-1987| production |Saudi Arabia|27363.75| m |IT Support|On Leave|Bachelor
+100152|Sara Johnson|Sara|Johnson|1981-05-14| safety |UAE|44307|female|Production Operator|TERM|DIP
+100153|Michael Farouk|Michael|Farouk|1967/04/29|EHS|PH|21874.5|1|Accountant|New Hire|Doctorate
+100154|Farah Williams|Farah|Williams|19/09/1970|Operations| usa |10611.75|1|HR Specialist|Inactive|Doctorate
+100155|Aisha Al-Thani|Aisha|Al-Thani|25/05/1992| safety |India|29020.5|Male|Supply Chain Coordinator|contractor| Diploma 
+100156|Layla Williams|Layla|Williams|20/01/1990|SCM|United States of America|$35,296.75|Female|Sales Executive|terminated|PhD
+100157|Maha Mahmoud|Maha|Mahmoud|1971-08-20|human resources|AE|31436.25|1|HR Specialist|PROB|DIP
+100158|Reem Al-Thani|Reem|Al-Thani|03-03-1993|sales|US|EGP 26,108.00|Female|IT Support| Contractor | Bachelor 
+100159|Reem Miller|Reem|Miller|1994-12-03| Accounting | Pakistan |7738.25|MALE|IT Support|A|BA
+100160|Emily Ali|Emily|Ali|1985/10/08|Logistics|Pakistan||FEMALE|Sales Executive|active|BSc
+100161|MONA AL-SALEM|Mona|Al-Salem|08-13-1985|ENV|AE|QAR 32,739.50|FEMALE|Data Engineer|active|Diploma
+100162|Ava Al-Kuwari|Ava|Al-Kuwari|08/03/1969|it|jordan|36633.25|female|IT Support|contractor|MSc
+100163|Ali, Mona|Mona|Ali|1983/12/03| safety |Emirates|15,120| f |Supply Chain Coordinator|contractor|PhD
+100164|Miller, Hassan|Hassan|Miller|1976-07-13|FIN|IND|40011.25|M|Marketing Analyst|External|high school
+100165|John Mahmoud|John|Mahmoud|2002-08-25|Information Technology| Jordan |18342.75|F|Data Engineer|External|Doctorate
+100166|Layla Garcia|Layla|Garcia|31/02/1988| safety |Emirates|30334.25| f |Sales Executive|ACT|Bachelor
+100167|Sara Hassan|Sara|Hassan|17-Feb-1992|Logistics|United States|19079.50|2|HR Specialist|CONT|High School
+100168|Omar Al-Salem|Omar|Al-Salem|1970-06-01|SCM|SA|5033.75| m |Production Operator|CONT|PHD
+100169|Reem Williams|Reem|Williams|05-29-1979| Commercial |IND|12625.5|Male|Marketing Analyst|Active|high school
+100170|Mohamed Ibrahim|Mohamed|Ibrahim|06-18-1982|Sales Dept|pakistan|8,548|M|Sales Executive|On Leave|Diploma
+100171|Maha Davis|Maha|Davis|17-Aug-1974| Environmental |SA|QAR 31,528.00|male|Sales Executive|Probation| PhD 
+100172|Fatima Brown|Fatima|Brown|1982-10-30|Environmental|jordan|QAR 28,200.50|F|Project Manager| Active |BSc
+100173|James Al-Salem|James|Al-Salem|03-22-1988|supply-chain|IN|12714.5| m |Data Engineer| Contractor |High School
+100174|Michael Patel|Michael|Patel|1983-04-13|OPS|QA|23372.75|Male|Safety Officer| Probation | Master 
+100175|Al-Mansoori, David|David|Al-Mansoori|1974-08-13|H.R.|JOR|QAR 32,238.50|Female|Business Analyst|terminated|bachelor
+100176|Reem Wilson|Reem|Wilson|2001/09/21|ENV|GB|$4,084.00|FEMALE|Production Operator|ACT|diploma
+100177|Aya Ibrahim|Aya|Ibrahim|1977/02/12|Production|egypt|41034|M|Safety Officer|A|Doctorate
+100178|Nour Davis|Nour|Davis|01-25-1979|Fin.|egypt|22832|1|HR Specialist|Active|Bachelor
+100179|Saad Khan|Saad|Khan|1992/02/23|human resources|egypt|21065|2|Accountant|PROB|high school
+100180|Hamad Farouk|Hamad|Farouk||env.|Egypt|30,038|1|Supply Chain Coordinator|active|Bachelor
+100181|Omar Davis|Omar|Davis|10-23-1993|HSE|Britain|18449.5|female|Project Manager|Active| Diploma 
+100182|Mohamed Mahmoud|Mohamed|Mahmoud|16/10/1985| Marketing |EGY|6,321|FEMALE|Safety Officer|New Hire|diploma
+100183|Karim Al-Harbi|Karim|Al-Harbi|01/12/1980|Safety|JOR|QAR 15,178.25|2|Safety Officer|A|Dipl.
+100184|Sara Saeed|Sara|Saeed|| IT |USA|QAR 25,210.25|female|IT Support|External|Doctorate
+100185|Ahmed Al-Harbi|Ahmed|Al-Harbi|10-18-1996| safety |qatar|QAR 27,954.00|2|HR Specialist|ACT|PhD
+100186|Aisha Farouk|Aisha|Farouk||Manufacturing| usa |24366.5|Male|Supply Chain Coordinator|External|Diploma
+100187|Mostafa Miller|Mostafa|Miller|13/01/1973|Supply Chain|Saudi Arabia|19013.25|F|Supply Chain Coordinator| Contractor |Bachelor
+100188|Faisal Moore|Faisal|Moore|1989-02-05|Prod|india|19,902|Male|Data Engineer|Probation|PHD
+100189|Mariam Garcia|Mariam|Garcia|1970-05-13| Environmental |QAT|25777.75|male|Supply Chain Coordinator|New Hire|Master
+100190|Abdullah Taylor|Abdullah|Taylor|04/11/1970| Operations |Egypt|22119.25|FEMALE|Sales Executive|On Leave|Doctorate
+100191|Ali Johnson|Ali|Johnson|1972/09/28|SCM|philippines|18537.25|Female|Marketing Analyst|ACT| Master 
+100192|Saad Patel|Saad|Patel|05/10/2001|Production|EGY|17103.25|1|Project Manager|On Leave|diploma
+100193|Ahmed Farouk|Ahmed|Farouk|1980/08/04|HR| UAE |39580.75|FEMALE|Project Manager| Contractor | Bachelor 
+100194|Karim Nasser|Karim|Nasser|26/07/1970|H.R.|India|14114.75|2|Data Engineer|TERM|phd
+100195|Aya Garcia|Aya|Garcia|2000-02-08|OPS|PAK|QAR 21,503.25|male|Business Analyst|External| Diploma 
+100196|Mahmoud Wilson|Mahmoud|Wilson|10/05/1994| Commercial |Qatar|5,604|M|IT Support|A|BSc
+100197|Al-Mansoori, Fatima|Fatima|Al-Mansoori|06-21-1999|IT|Egypt|25,386|M|Environmental Engineer||Master
+100198|Khalid Kamal|Khalid|Kamal|01-Aug-1971|Logistics|USA|36782.5|M|Safety Officer|terminated|High School
+100199|Johnson, Sara|Sara|Johnson|1967/07/13|H.R.|Philippines|13899.50| f |Marketing Analyst|Terminated|Doctorate
+100200|Emily Saeed|Emily|Saeed|18/10/1978|Information Technology| Egypt |QAR 12,156.25|Unknown|Accountant|New Hire|MBA
+100201|James Jones|James|Jones|1970-10-27| Operations |PAK|7759.75|F|Marketing Analyst| Probation | High School 
+100202|Laila Williams|Laila|Williams|1984/04/21|finance|KSA|27996.25|M|Sales Executive|ACT|BSc
+100203|Ava Nasser|Ava|Nasser|1993-10-03|Sales Dept| Qatar |7174.25|1|Supply Chain Coordinator|ACT|Master
+100204|Emily Patel|Emily|Patel|10-26-1999|Operations| Saudi |16360.75|MALE|Marketing Analyst| On Leave |BSc
+100205|Michael Mahmoud|Michael|Mahmoud|12-12-1968|FIN|IN|EGP 39,728.75|F|Production Operator|Active|high school
+100206|Heba Ali|Heba|ali|1981-03-09|marketting|US|17501.50|1|Data Engineer|contractor|high school
+100207|Heba Patel|Heba|Patel|1966-01-06|Environment|JOR|31057.25|female|Marketing Analyst|On Leave|High School
+100208|Abdullah Ali|Abdullah|Ali|05-01-1979|I.T.|Saudi Arabia|10768| m |HR Specialist| Terminated | Bachelor 
+100209|Khalid Mostafa|Khalid|Mostafa|1965-09-19|HSE|United States|$31,890.50|male|Supply Chain Coordinator|Inactive|HS
+100210|SARA HASSAN|Sara|Hassan|29-Jul-1990|Finance|UAE|4016.5|female|Marketing Analyst| Probation | Diploma 
+100211|FATIMA HASSAN|Fatima|Hassan|02/12/1974|Prod|qatar|43935|F|Data Engineer|Contractor|DIP
+100212|EMMA MARTINEZ|Emma|Martinez|06-Jan-1999|Operation|JO|22696.5|1|Business Analyst|CONT|master
+100213|Sophia Mostafa|Sophia|Mostafa|1985-04-22|Environment| Philippines |27166.25|FEMALE|Production Operator|contractor| High School 
+100214|Emily Mahmoud|Emily|Mahmoud|06/01/1979|PROD|QAT|4,798|female|Environmental Engineer|TERM|Doctorate
+100215|Hassan Al-Farsi|Hassan|Al-Farsi|21-Apr-1987|finance|PAK|30997| m |Accountant|Terminated|Master
+100216|Fatima Ali|Fatima|Ali|04-12-1986|Fin.|Jordan|22860.25|M|IT Support|Contractor|BA
+100217|Aisha Smith|AISHA|Smith|07-18-1999|ops|india|26,221|1|Project Manager|A|BA
+100218|Mostafa Saeed|Mostafa|Saeed|1990-11-17|HSE|KSA|33074.75|Female|Business Analyst|On Leave|MBA
+100219|Michael Al-Farsi|Michael|Al-Farsi|03/10/1983|Marketing|KSA|13193| m |Safety Officer|External|High School
+100220|Dina Al-Farsi|Dina|Al-Farsi|03-15-1965| Marketing |SA|32,242|N/A|Project Manager|On Leave| Bachelor 
+100221|Farah Al-Mansoori|Farah|Al-Mansoori|1985-10-28|Environmental|QA|14032.25|F|Accountant| Probation | Master 
+100222|James Wilson|James|Wilson|09/03/1999| Accounting |Emirates|4966.25|1|Environmental Engineer|active| Diploma 
+100223|Faisal Saeed|Faisal|Saeed|1999-02-23|Supply Chain| usa |$36,248.75| m |Safety Officer| Terminated | Bachelor 
+100224|James Garcia|James|Garcia|1975-08-08|Environmental|EG|7529.75|female|Supply Chain Coordinator|CONT|Doctorate
+EMP100225|Youssef Ali|Youssef|Ali|11-29-1969|ops| Jordan |22846.75|MALE|Project Manager|External| High School 
+100226|James Al-Salem|James|Al-Salem|04-May-1968|human resources|PHL|$32,839.25|2|Marketing Analyst| On Leave |Master
+100227|Noora Ali|Noora|Ali|1993-08-14|sales|PH|14923.75| m |Production Operator|on leave| Diploma 
+100228|Taylor, Abdullah|Abdullah|Taylor|23-Aug-1969|Operations|AE|4,166|F|Sales Executive| Terminated |Diploma
+100229|James Jones|James|Jones|1985/01/30| HR |USA|6074.25|female|Project Manager|Active| Master 
+100230|Mahmoud Al-Mansoori|Mahmoud|Al-Mansoori|06-13-1983|Information Technology|JO|EGP 29,557.75|female|Marketing Analyst| Contractor |PHD
+100231|Khalid Ali|Khalid|Ali|25-Oct-1992|it|United States|42388.5| m |Project Manager|ON_LEAVE|bachelor
+100232|JOHN AL-MANSOORI|John|Al-Mansoori|1984/10/24|Finance|United States of America|15551.5|MALE|HR Specialist|Inactive|Secondary
+100233|Mohamed Jones|Mohamed|Jones|17/07/1973|SALES|US|9444| f |Supply Chain Coordinator| On Leave |PhD
+100234|Sophia Williams|Sophia|Williams|1998/09/23|Environment|IN|43316.75|Female|IT Support| Contractor |high school
+100235|Nour Farouk|Nour|Farouk|24/02/1997|Operation| Saudi |29,576|Male|Project Manager|ON_LEAVE| Bachelor 
+100236|Fatima Al-Thani|Fatima|Al-Thani|11-26-1972|HSE|UK|33626.75|Unknown|Environmental Engineer|Inactive| Bachelor 
+100237|Laila Saeed|Laila|Saeed|04-02-1978|supply-chain|KSA|33809.75|MALE|Data Engineer| Active |MBA
+100238|Mostafa Jones|Mostafa|Jones|1965/02/01|IT|United Arab Emirates|17900.25| f |Sales Executive|PROB|Master
+100239|Michael Jones|Michael|Jones|02-Jun-1973|Sales Dept|PK|EGP 21,854.75|M|IT Support|ON_LEAVE|MSc
+100240|Dina Farouk|Dina|Farouk|25-Jul-1989|Environmental|PHL|13,568|1|Safety Officer| On Leave |Diploma
+100241|James Garcia|James|Garcia|13-Oct-1989|Prod|Philippines|9019|female|Project Manager|ACT|NULL
+100242|Reem Al-Farsi|Reem|Al-Farsi|07-28-1991| HR |United Arab Emirates|$33,187.75|female|Environmental Engineer|probation| Diploma 
+100243|Reem Al-Farsi|Reem|Al-Farsi|1971-07-27| Commercial |saudi arabia|6444|female|Sales Executive|Probation|master
+100244|Farah Garcia|Farah|Garcia|1982/05/05|sales|United States|32536| f |Project Manager| Active |BA
+100245|Ava Farouk|Ava|Farouk|1974-05-28|it|Saudi Arabia|22233.75|male|Data Engineer|External|PHD
+100246|Laila Taylor|Laila|Taylor|08-Oct-2001|Fin.|Qatar|QAR 13,897.25|female|Project Manager|Inactive|bachelor
+100247|Farah Saeed|Farah|Saeed|1968-01-23|Supply Chain|PAK|$12,307.25|FEMALE|IT Support| Terminated |MBA
+100248|Emily Miller|Emily|Miller|1982/06/05|human resources|United States of America|7010|male|Environmental Engineer|New Hire|Doctorate
+100249|Layla Al-Kuwari|Layla|Al-Kuwari|28-Aug-1970|Human Resources| India |QAR 19,119.50|female|Production Operator| On Leave |high school
+100250|Heba Mostafa|Heba|Mostafa||SALES|Jordan|44676|Male|Supply Chain Coordinator|on leave
+100251| Hassan  Saeed |Hassan|Saeed|12-01-1987|FIN|egypt||2|Production Operator|ACT|High School
+100252|Farah Al-Salem|Farah|Al-Salem|19-Dec-1997|Manufacturing|qatar|23579.25|2|Business Analyst|New Hire|High School
+100253| Emma  Brown |Emma|Brown|16-Jun-1978|EHS| Pakistan |6,165|Female|Supply Chain Coordinator|Contractor|Bachelor
+100254|Hamad Mostafa|Hamad|Mostafa|1977-03-03|FIN|qatar|QAR 41,414.50|female|Data Engineer|TERM|bachelor
+100255|Al-Farsi, Aisha|Aisha|Al-Farsi|2003-04-09|Information Technology|india|25887.25|Female|Accountant|TERM|phd
+100256|Michael Farouk|Michael|Farouk|2002/11/15|SCM|IN|EGP 20,592.25|1|Supply Chain Coordinator| Contractor |PhD
+100257|MOHAMED MILLER|Mohamed|Miller|18/08/1993|Operation|philippines|28290.75|Female|Data Engineer|Leave|bachelor
+100258|Tamer Ibrahim|Tamer|Ibrahim|03-Apr-1974|EHS|UAE|9919|1|Production Operator|Contractor|Secondary
+100259|Al-Thani, Reem|Reem|Al-Thani|1993/09/01|marketting|egypt|24465.5|female|Project Manager| Contractor |phd
+100260|Aisha Patel|Aisha|Patel|1972/02/14| Commercial |SA|32340.5|2|Data Engineer| Probation |high school
+100261|Emma Moore|Emma|Moore|1976-11-06| Accounting |Britain|$20,938.75| m |Production Operator|contractor|Bachelor
+100262|Omar Jones|Omar|Jones|06-25-1967| Operations | uk |12202.5|1|HR Specialist|On Leave|master
+100263|Abdullah Miller|Abdullah|Miller|11-28-1979|mktg| Qatar |29294.5|2|IT Support|on leave| PhD 
+100264|Al-Harbi, Ahmed|Ahmed|Al-Harbi|1992/05/31| safety |United States of America|44192.25|F|Project Manager|terminated|MBA
+100265|Mostafa Khan|Mostafa|Khan|1998/07/07| IT |KSA|33283.5|1|Production Operator|ON_LEAVE|PhD
+100266|Emma Ali|Emma|Ali|05-29-1992|it| UAE |32679.25|FEMALE|Sales Executive|probation|high school
+100267|Mona Johnson|Mona|Johnson|1980/05/03|env.|SA|43878.5|2|Sales Executive|Contractor|PhD
+100268| Omar  Jones |Omar|Jones|28-Mar-1995|IT| Pakistan |19699|female|Supply Chain Coordinator|PROB|bachelor
+100269|MOSTAFA MARTINEZ|Mostafa|Martinez|07-Jun-1985|Operations|saudi arabia|26,102|FEMALE|Production Operator|A|PHD
+100270|Mona Hassan|Mona|Hassan|04/04/1985|Operation|United States of America|42,514|MALE|Project Manager|active|diploma
+100271|Faisal Garcia|Faisal|Garcia|1970-09-04|Supply Chain|IN|30669|F|IT Support|terminated| PhD 
+100272|Ahmed Farouk|Ahmed|Farouk|unknown| Accounting |JO|30097|2|Data Engineer|Inactive|HS
+100273|Ali Ibrahim|Ali|Ibrahim|31-Jul-1987|IT|United Arab Emirates|5636.25| f |Production Operator| Active | Master 
+100274|Ali Al-Mansoori|Ali|Al-Mansoori|31-Aug-1977| Operations |United Arab Emirates|3557.25|MALE|Data Engineer|probation|diploma
+EMP100275|Michael Al-Thani|Michael|Al-Thani|11-Dec-1978| Accounting |Qatar|25865.25| f |Marketing Analyst|Active|Dipl.
+100276|Layla Ali|Layla|Ali|1973/09/01|Safety|Emirates|18984.75|Female|Data Engineer|TERM|High School
+100277|Hassan Nasser|Hassan|Nasser|2001/08/14| safety |KSA|$19,023.00|FEMALE|Production Operator|CONT| Master 
+100278|Farah Wilson|Farah|Wilson|1984/09/25| Environmental |United States of America|N/A|2|Safety Officer|Probation|NULL
+100279|Youssef Jones|Youssef|Jones|09-21-1981|Marketing| Egypt |19707.75|FEMALE|Sales Executive|on leave|Secondary
+100280|Tamer Al-Kuwari|Tamer|Al-Kuwari|14/12/1977|PROD|India|18035| f |Supply Chain Coordinator|Contractor|master
+100281|MAHA IBRAHIM|Maha|Ibrahim|15/06/1983|mktg| UAE |16109.5|N/A|Supply Chain Coordinator|PROB|BA
+100282| Mariam  Williams |Mariam|Williams|17-Jul-2000|ENV| Egypt |37435.75| m |Accountant| Probation |PHD
+100283|Mostafa Moore|Mostafa|Moore|05-Jan-1968|Human Resources| Philippines |22946.25|2|Safety Officer| Terminated |Diploma
+100284|Mohamed Miller|Mohamed|Miller|03-17-1995|ENV|saudi arabia|QAR 38,238.75|female|IT Support||Secondary
+100285|Abdullah Patel|Abdullah|Patel|10-14-1989|Operations| Philippines |9079.25|Male|Marketing Analyst|Active|Dipl.
+100286|Youssef Brown|Youssef|Brown|09-21-1986|Health & Safety|UAE|4655.25|female|HR Specialist| Active |Bachelor
+100287|Saad Martinez|Saad|Martinez|10-Dec-1987| IT |JOR|-17507|female|Safety Officer|contractor|PhD
+100288|Khalid Garcia|Khalid|Garcia|1973/09/06| Environmental |IN|28,279| m |Safety Officer|Terminated|diploma
+100289|Mona Nasser|Mona|Nasser|29/06/1983|FIN|Saudi Arabia|EGP 19,669.50|male|IT Support|Active|Bachelor
+100290|Michael Moore|Michael|Moore|unknown|marketting|QA|39309|M|Project Manager|on leave|high school
+100291| Mahmoud  Smith |Mahmoud|Smith|1991-09-29|Sales|IND|22121.75|1|Project Manager|active|MSc
+100292|Faisal Johnson|Faisal|Johnson|1982-03-30|Safety| Jordan |4,566|MALE|Data Engineer| Active |PHD
+100293|Ali Al-Kuwari|Ali|Al-Kuwari|13-Jan-1972|finance| Egypt |QAR 44,174.75|Male|Environmental Engineer|A|BA
+100294|Noora Al-Farsi|Noora|Al-Farsi|1974-09-07|PROD|jordan|29404|FEMALE|Business Analyst|terminated|Diploma
+100295| Emma  Smith |Emma|Smith|1988-06-19|env.|QA|16663.5|F|Sales Executive|Leave| Master 
+100296|Mahmoud Al-Salem|Mahmoud|Al-Salem|2002-10-19| IT |india||Male|Marketing Analyst| Terminated |PhD
+100297|Robert Al-Mansoori|Robert|Al-Mansoori|2000-09-08| Commercial |egypt|26939|M|Supply Chain Coordinator|Inactive| Master 
+100298|Robert Nasser|Robert|Nasser|1986-11-04|finance|UK|17464.00| m |HR Specialist|TERM| PhD 
+100299|Omar Patel|Omar|Patel|1978/02/01| Operations |PHL|21759.75| m |Safety Officer|CONT|high school
+100300|Aisha Davis|Aisha|Davis|22/04/1991|SCM|Pakistan|$44,138.75| m |Production Operator| Contractor |BA
+100301|Ali Nasser|Ali|Nasser|1999-02-23|ops|USA|19455.75|male|Safety Officer|New Hire|Secondary
+100302|James Al-Thani|James|Al-Thani|07-23-1999|Environment|Saudi Arabia|36624.5| f |Safety Officer|CONT|MSc
+100303|Aya Kamal|Aya|Kamal|05/09/1996|Sales Dept|JO|41972.25| m |Data Engineer|New Hire| High School 
+100304|Fatima Saeed|Fatima|Saeed||Sales|IN||Female|Accountant|contractor|HS
+100305|John Ibrahim|John|Ibrahim|1984-12-18| Environmental | Qatar |4487|MALE|Safety Officer|Probation|HS
+100306|James Saeed|James|Saeed|11-23-1968|supply-chain|IN|10449.75| m |Production Operator|terminated|Dipl.
+100307|Mahmoud Farouk|Mahmoud|Farouk|29-Mar-1977| Marketing |PHL|EGP 27,484.75|1|Safety Officer|Leave| Master 
+100308|Mahmoud Al-Mansoori|Mahmoud|Al-Mansoori|08-06-1987| HR | Qatar |22,540||IT Support|New Hire|phd
+100309|David Smith|David|Smith|2002/04/04|Sales Dept| Egypt |40636.25|male|Accountant|contractor|Doctorate
+100310|AVA WILLIAMS|Ava|Williams|10-Nov-1989|it| Egypt |17037|1|Project Manager| Probation |MSc
+100311| Olivia  Al-Kuwari |Olivia|Al-Kuwari|1993-08-02| Commercial |UK|34545.5|M|HR Specialist|on leave|bachelor
+100312|Hassan Hassan|Hassan|Hassan|1981/10/06|mktg|JO|21241.75|MALE|Supply Chain Coordinator| Probation |MBA
+100313|Robert Ibrahim|Robert|Ibrahim|1987/08/09|Information Technology|Jordan|QAR 11,348.25|M|Sales Executive|PROB|MBA
+100314|Emma Saeed|Emma|Saeed|1968/02/23|finance| Qatar |17,103||Project Manager|External| Master 
+100315|Karim Davis|Karim|Davis|1991-08-27|FIN|QAT|36374.75| f |Sales Executive|terminated|Dipl.
+100316|Aya Johnson|Aya|Johnson|2003/09/24|env.|Pakistan|39090|FEMALE|Project Manager|CONT|Master
+100317|Sara Williams|Sara|Williams|1995-09-24|MKT|egypt|38909.75|male|Data Engineer| Probation |High School
+100318|Hassan Al-Mansoori|Hassan|Al-Mansoori|1983/11/26|OPS|india|QAR 30,555.75|M|Project Manager|active|NULL
+100319|Farah Ali|Farah|Ali|1990-08-22| HR |United States|5,734|MALE|Accountant|terminated|MBA
+100320|Ali Ali|ALI|Ali|23-Feb-1981|PROD|Qatar|42934.75|female|Accountant|Inactive|high school
+100321|Mona Al-Mansoori|Mona|Al-Mansoori|11-20-2002| IT |EG|31,180|1|Project Manager|terminated| Master 
+100322|Fatima Moore|Fatima|Moore|2000-07-25| Environmental |United States|24298.75| m |Sales Executive|TERM| High School 
+100323|Omar Miller|Omar|Miller||SCM|PAK|28,146|MALE|Sales Executive|active|Secondary
+100324|Faisal Khan|Faisal|Khan|14-Apr-1978|sales|Britain|7673.25| f |Marketing Analyst|TERM|master
+100325|Hamad Jones|Hamad|Jones|1967-07-24| production |saudi arabia|QAR 20,947.75|male|Marketing Analyst|PROB|master
+100326|Olivia Mahmoud|Olivia|Mahmoud|1991/10/09|ENV|USA|27573| f |Data Engineer|Terminated|PHD
+100327| Hassan  Al-Harbi |Hassan|Al-Harbi|11-01-1973| Marketing |AE|30068.5|Male|Project Manager|CONT|BSc
+100328|Nour Martinez|Nour|Martinez|1997-10-13| Commercial | India |39592.5|F|Production Operator|CONT|Master
+100329| Youssef  Al-Salem |Youssef|Al-Salem|12/06/1994|Operation|IN|21626.5|M|Production Operator| Active |high school
+100330|Heba Kamal|Heba|Kamal|1999/04/07|Safety|United States of America|$17,083.50|2|Accountant|terminated|diploma
+100331|Dina Al-Salem|Dina|Al-Salem|08-Dec-2000|ops| Pakistan || f |Supply Chain Coordinator|probation|PhD
+100332|Mariam Williams|Mariam|Williams|1999/05/31|Environmental|PAK|37777.25|Female|Accountant|ON_LEAVE|Master
+100333|Ava Mahmoud|Ava|Mahmoud|07/09/1990|Finance|egypt|38851.25|2|HR Specialist|probation|PhD|EXTRA_COL
+100334|Heba Khan|Heba|Khan|1988/09/09| Marketing |JO|5044.25|1|Accountant| Contractor |HS
+100335|FATIMA DAVIS|Fatima|Davis|1983/04/17|FIN|United Arab Emirates|39955|M|Environmental Engineer|ON_LEAVE|bachelor
+100336|Ahmed Davis|Ahmed|Davis|1976/01/02| production |Philippines|44639|N/A|Marketing Analyst| Contractor |MBA
+100337|Michael Hassan|Michael|Hassan|2001/02/17| HR |UAE|41043|M|Environmental Engineer|ON_LEAVE|BSc
+100338| Emily  Patel |Emily|Patel|17/03/1994|Health & Safety|Emirates|5882|Female|Sales Executive|A|High School
+100339| Aya  Miller |Aya|Miller|1969/09/27| Supply Chain |india|40,432|M|Sales Executive|terminated|Doctorate
+100340|John Patel|John|Patel|07-07-1976|Information Technology| UAE |4,718| f |Sales Executive|PROB|NULL
+100341|Emma Al-Kuwari|Emma|Al-Kuwari|| Commercial |PH|33441|F|Supply Chain Coordinator|ACT|PHD
+100342|James Jones|James|Jones|24/01/1980|Logistics|Pakistan|EGP 19,009.75|MALE|Safety Officer|Contractor|MSc
+100343|Nour Moore|Nour|Moore|03-06-1980|it|Emirates|18352|MALE|Sales Executive|Terminated|PhD
+100344|Tamer Miller|Tamer|Miller|15-May-1983|ENV|UAE|43083.5|Male|Business Analyst|terminated| High School 
+100345|James Adel|James|Adel|20/10/1976|Operation|jordan|16945.5|1|Sales Executive|probation| Diploma 
+100346|Farah Al-Harbi|Farah|Al-Harbi|15-Mar-1985|marketting|philippines|22732.25|F|Project Manager| Terminated |MBA
+100347|Al-Mansoori, Hamad|Hamad|Al-Mansoori|1965/12/10|mktg|qatar|8866.5|M|Marketing Analyst|terminated|Master
+100348|Taylor, Khalid|Khalid|Taylor|09-22-2000|IT|KSA|-11313.25|FEMALE|Project Manager|PROB| Bachelor 
+100349|James Al-Salem|James|Al-Salem|1999/06/22|FIN|Emirates|34372|2|IT Support|External|DIP
+100350|Ahmed Moore|Ahmed|Moore|13-Dec-1997|FIN|PK|6419| f |Business Analyst|ON_LEAVE|Doctorate
+100351|David Khan|David|Khan|08-Sep-1970|finance|United Arab Emirates|37002.75|F|Accountant| Contractor | PhD 
+100352|Abdullah Moore|Abdullah|Moore|1977/04/22|I.T.|Saudi Arabia|N/A|1|Production Operator|PROB|PHD
+100353|Tamer Davis|Tamer|Davis|01-Mar-1975|Production|Philippines|38,286|male|Marketing Analyst|Active|Doctorate
+100354|Ali Farouk|Ali|Farouk|31/08/1987|Marketing|Philippines|31619.75|F|Sales Executive|CONT|MSc
+100355|Mohamed Adel|Mohamed|Adel|09-26-1998|Operations|saudi arabia|39,619|male|Supply Chain Coordinator|probation|high school
+100356|Heba Al-Salem|Heba|Al-Salem|03-Dec-1979|Safety|Pakistan|10817.25|F|IT Support|New Hire|Diploma
+100357|Karim Davis|Karim|Davis|2000/10/27|Operations| Jordan |N/A||Environmental Engineer|PROB| Diploma 
+100358|Laila Ibrahim|Laila|Ibrahim|1998/12/19|Health & Safety|AE|27678| f |Project Manager|On Leave| Bachelor 
+100359|John Jones|JOHN|Jones|1970-12-25|HSE|pakistan|21085.75|F|Sales Executive|CONT|phd
+|Tamer Garcia|Tamer|Garcia|27/12/1966|Environment|United Kingdom|14,486|FEMALE|HR Specialist| Contractor |Secondary
+100361|John Johnson|John|Johnson|1969-12-27|Logistics|JOR|22219| m |Accountant|A|HS
+100362|Olivia Miller|Olivia|miller|1973-09-08|Production| uk |31447.75|Unknown|Marketing Analyst|New Hire|bachelor
+100363|Moore, Olivia|Olivia|Moore|1994/12/10| Supply Chain |JO|21341.5|FEMALE|HR Specialist|ACT| Bachelor 
+100364|ROBERT IBRAHIM|Robert|Ibrahim|30-Nov-1973|sales|JOR|32961.75|F|Production Operator| On Leave |diploma
+100365|Aya Moore|Aya|moore|13-Oct-1965|SALES|Saudi Arabia|29009.5|Female|Accountant|Leave|PhD
+100366|David Farouk|David|Farouk|1982-02-24|I.T.|Pakistan|EGP 11,203.75|F|Sales Executive| Terminated |PHD
+100367|Emma Taylor|Emma|Taylor|06-16-1987|Sales Dept| usa |5032.75|F|Supply Chain Coordinator|PROB|PHD
+100368| Omar  Garcia |Omar|Garcia|1993-12-02|env.|US|40071|1|IT Support|ON_LEAVE| High School 
+100369|Laila Williams|Laila|Williams|09-26-1990|OPS| India |30324|Male|Supply Chain Coordinator| Terminated | Master 
+100370|Heba Moore|HEBA|Moore|31/02/1988|marketting|US|32121| f |HR Specialist|contractor| Bachelor 
+100371|James Smith|James|Smith|13/09/1968|EHS|Britain|12508.00|2|Marketing Analyst|Inactive|Secondary
+100372|Aya Nasser|Aya|Nasser|09-05-1975|Sales| Pakistan |4305.25|MALE|Sales Executive|TERM|Bachelor
+100373|Sophia Martinez|Sophia|Martinez|1988/05/21|H.R.|JOR|9535.25|Female|Accountant|On Leave|MSc
+100374|Aisha Moore|Aisha|Moore|03-30-1987|H.R.|EGY|21922.25| f |Supply Chain Coordinator|Inactive|DIP
+100374|Farah Al-Thani|Farah|Al-Thani|1985/10/08|Marketing|jordan|11570.75|2|Production Operator|terminated| Diploma 
+100376|Hassan Moore|Hassan|Moore|1968/08/07|Human Resources|PAK|7441.75| f |Sales Executive|A|MSc
+100377|OMAR WILSON|Omar|Wilson|1967/01/17|mktg| India |42905.5|Male|Environmental Engineer|New Hire| Master 
+100378|Reem Farouk|Reem|Farouk|21-Nov-2000|FIN|IN|32349.25|FEMALE|Data Engineer|Probation| Diploma 
+100379|Omar Jones|Omar|Jones|04-Jul-1985|Human Resources|IND|44605.75|Male|Environmental Engineer| On Leave |master
+100380|Saad Al-Thani|Saad|Al-Thani|1993/04/30|Production|Jordan|36143.25|M|Data Engineer|Active|PhD
+100381|MICHAEL JOHNSON|Michael|Johnson|28-Apr-2002|human resources|india|5367.5|female|Production Operator|on leave|BA
+100382|Mostafa Jones|Mostafa|Jones|1976-03-25|I.T.|JO|QAR 29,862.25|2|Environmental Engineer|CONT|phd
+100383|Khalid Davis|Khalid|Davis|2000/05/31|Environmental|India|17,958|MALE|Sales Executive|Contractor|PhD
+100384|Maha Al-Farsi|Maha|Al-Farsi|25/02/1980| Commercial | Qatar |5386|Unknown|Accountant|TERM|Secondary
+100385|Olivia Johnson|Olivia|Johnson|28/02/1998|Supply Chain|QA|31431.25|F|Sales Executive|Terminated|PHD
+100386|Reem Hassan|Reem|Hassan|10-30-1990|Production|JOR|17055.25|Male|Data Engineer|Probation| Diploma 
+100387|Laila Taylor|Laila|Taylor|24-May-1967|Health & Safety|United States of America|QAR 10,249.00|1|Business Analyst|A|Dipl.
+100388|Khalid Farouk|Khalid|Farouk|1967/12/15|Environmental|United Kingdom|37279|male|Marketing Analyst|External|BA
+100389|Nour Brown|Nour|Brown|10-Nov-1971|FIN|qatar|30105.25|F|Supply Chain Coordinator|CONT| High School 
+100390|Fatima Taylor|Fatima|Taylor|1996-02-10|OPS|UK|18039.5|MALE|Business Analyst| Terminated |BSc
+100391|James Farouk|James|Farouk|1974/07/10|Finance|PHL|35281.75|Female|Production Operator| Terminated |phd
+100392|Karim Al-Salem|Karim|Al-Salem|09-11-1974|human resources|IND|44,292|F|Marketing Analyst| On Leave | Diploma 
+100393|Patel, Hamad|Hamad|Patel|1979-10-17|ENV|Emirates|40900.00|FEMALE|IT Support|terminated|DIP
+100394|TAMER JONES|Tamer|Jones|03-14-2003|HSE|PK|QAR 39,529.75|Male|Project Manager||PHD
+100395|Ava Jones|Ava|Jones|21/07/2000|Prod|IN|25229.50|male|Project Manager|On Leave| Diploma 
+100396|Laila Jones|Laila|Jones|04-May-1970|sales|SA|25044.25| f |Safety Officer|Active|High School
+100397|Ali, Mostafa|Mostafa|Ali|11/11/1991|Information Technology|QAT|$14,499.75| f |HR Specialist|Leave|phd
+100398|Sophia Johnson|Sophia|Johnson|09-06-1988|FIN|Jordan|39370.25| m |Supply Chain Coordinator|PROB|Master
+100399|Khalid Martinez|Khalid|Martinez|11-17-1988|human resources|philippines|5917.50|2|Business Analyst|on leave|MBA
+100400|David Al-Mansoori|David|Al-Mansoori|24-May-1992|I.T.|PAK|4581.5|FEMALE|Environmental Engineer|Terminated|High School
+100401|Mahmoud Adel|Mahmoud|Adel|12-Jun-1965| Accounting |QAT|QAR 6,940.75| f |Business Analyst|On Leave|HS
+EMP100402|Khalid Davis|Khalid|Davis|08-22-1993|it|United States|EGP 14,253.00|Female|IT Support|on leave|BA
+100403|Ahmed Johnson|Ahmed|Johnson|2002/09/14|ENV|United States|QAR 24,893.25| f |Project Manager|ACT|PhD
+100404| Dina  Davis |Dina|Davis|2000/01/16|Sales| uk |$37,342.25|1|Safety Officer|Contractor| Master 
+100405|Mahmoud Saeed|Mahmoud|Saeed|10-18-1994|IT|Philippines|24682.75|F|Marketing Analyst|ACT|Bachelor
+100406|Ava Taylor|Ava|Taylor|1990-04-16|SCM|PH|EGP 31,963.75|Female|Data Engineer| On Leave |DIP
+100407|James Moore|James|Moore|1977/05/10|HSE|Egypt|QAR 35,725.25|MALE|Supply Chain Coordinator|ON_LEAVE|Secondary
+100408|Tamer Moore-Nasser|Tamer|moore|12-Nov-1986|PROD|KSA|12,247|Male|Data Engineer|New Hire| PhD 
+100409|Mahmoud Ibrahim|Mahmoud|Ibrahim|1971-04-23| Commercial |QA|24469.75|female|Supply Chain Coordinator|active|DIP
+100410|Sophia Nasser|Sophia|Nasser|1985/12/14|Fin.|AE|27,582|N/A|Marketing Analyst|On Leave|Doctorate
+100411|Hassan Nasser|Hassan|Nasser||marketting|Qatar|N/A|F|IT Support| Active |phd
+100412|David Taylor|David|Taylor|31-Jan-1965|Production|IND|43344.00|Female|HR Specialist|New Hire|High School
+100413|Noora Al-Kuwari|Noora|Al-Kuwari|1984-01-14|Logistics|Emirates|9224.75|1|Safety Officer|Contractor| Bachelor 
+100414|Youssef Al-Kuwari|Youssef|Al-Kuwari|05/03/1982|Sales Dept|United Kingdom|29490.25|female|Project Manager|PROB|MBA
+100415|David Martinez|David|Martinez|2000/10/06| Commercial |jordan|24558.75|M|Sales Executive|probation| Master 
+100416|Abdullah Martinez|Abdullah|Martinez|1991-09-01|Health & Safety| India |EGP 40,860.25|MALE|Supply Chain Coordinator| Active |BA
+100417|Robert Ibrahim|Robert|Ibrahim|02-Jan-1976| Accounting |UAE|23846|FEMALE|Production Operator|Active|Dipl.
+100418|Omar Jones|Omar|Jones||Fin.| Philippines |16528|MALE|HR Specialist|On Leave|PHD
+100419|Farouk, Sara|Sara|Farouk|09-29-1987| Commercial | Qatar |$7,468.00|2|Production Operator|On Leave|Diploma
+100420|Ahmed Al-Salem|Ahmed|Al-Salem||Environmental|saudi arabia|$21,499.50|2|HR Specialist|Terminated|master
+100421|Laila Davis|Laila|Davis|1990-04-03|Human Resources| Qatar |31999.25|2|Data Engineer|Leave|Diploma
+100422|Sophia Farouk|Sophia|Farouk|07/07/1999|Operations|QAT|29303.25|Male|Data Engineer|Active|Secondary
+100423|David Patel|David|Patel|03-25-1980|Production|IN|EGP 7,268.50|1|Safety Officer| Active | Bachelor 
+100424|Sara Patel|Sara|Patel|1969/04/15|HR|qatar|43153.25|female|Supply Chain Coordinator|Terminated| Bachelor 
+100425|Farah Mahmoud|Farah|Mahmoud|2000/12/28|SALES|Pakistan|32423.5|FEMALE|Marketing Analyst|terminated|bachelor
+100426|Ahmed Ibrahim|Ahmed|Ibrahim|09-Jul-2001|Sales Dept|JO|40833.25|1|IT Support|on leave|MBA
+100427|Mariam Taylor|Mariam|Taylor|18/08/1976|Fin.|EGY|26595.25|1|Marketing Analyst|CONT| Master 
+100428|David Al-Thani|David|Al-Thani|11/09/1984|Safety| Philippines |28906.00| f |Accountant|Leave|Diploma
+100429| Emily  Mostafa |Emily|Mostafa|1966/06/23|FIN|jordan|44955.50|Male|Data Engineer|ON_LEAVE|Dipl.
+100430|KHALID AL-THANI|Khalid|Al-Thani|06-May-2003|SCM|QA||1|Project Manager|Leave|Diploma
+100431|Michael Davis|Michael|Davis|26/05/1968|Safety|United Arab Emirates|16778.25|female|Safety Officer|ACT| Diploma 
+100432|Abdullah Al-Mansoori|Abdullah|Al-Mansoori|13-Aug-2002| Supply Chain |EG|21,830|F|Data Engineer|probation|phd
+100433|Sara Al-Salem|Sara|Al-Salem|12-04-1969|OPS|PH|21440.5|female|Environmental Engineer|Active| Master 
+100434|Noora Mahmoud|Noora|Mahmoud|1979/03/29|sales|PAK|27288.25|F|Marketing Analyst| Active |BSc
+100435|Maha Davis|Maha|Davis|2002-10-27|Prod|EGY|28763.75|male|Business Analyst|terminated|high school
+100436|Emma Smith|Emma|Smith|07-May-1965|supply-chain| Saudi |30647|F|Business Analyst|A| Master 
+100437|Michael Ibrahim|Michael|Ibrahim|05-29-1978| Supply Chain |qatar|4443|female|HR Specialist|Inactive| Bachelor 
+100438|Aya Moore|Aya|Moore|24/03/1998|human resources|PHL|44,819| f |Project Manager|On Leave|Diploma
+100439|Khalid Ibrahim|Khalid|Ibrahim|1989/04/15|FIN|United States of America|23928.25|2|Business Analyst|Leave| PhD 
+100440|Mahmoud Davis|Mahmoud|Davis|1997/10/20|H.R.| Saudi |6007.25| m |Accountant|Active|Secondary
+100441|Noora Mahmoud|Noora|Mahmoud|1997-03-01|it|Britain|7455.25|1|Project Manager| On Leave |BA
+100442|Ali Williams|Ali|Williams|21-Jan-1983| Environmental |Saudi Arabia|36676|M|Safety Officer|TERM|Diploma
+100443|Abdullah Smith|Abdullah|Smith|15/05/1965|EHS|UAE|7,052|MALE|Marketing Analyst|New Hire|high school
+100444|Hamad Jones|Hamad|Jones|05-May-1988|OPS| Saudi |13651.75| f |Safety Officer|External|HS
+100445|Fatima Ibrahim|Fatima|Ibrahim|1995/01/21|Operation|QAT|26012.5|MALE|Project Manager|Leave|Bachelor
+100446|Dina Al-Harbi|Dina|Al-Harbi|15-Feb-2003|OPS|US|10516|M|Project Manager|Inactive|Master
+100447|Ahmed Al-Harbi|Ahmed|Al-Harbi|1974-05-19|ENV|JOR|7907.75| f |IT Support|ON_LEAVE|phd
+100448|Mohamed Hassan|Mohamed|Hassan|01/10/1968|MKT| Philippines |4832.5| m |IT Support|On Leave|MBA
+100449|Tamer Garcia|Tamer|Garcia|2003-12-11|PROD| Saudi |40392.5|Female|Environmental Engineer|A| Diploma 
+100450|Omar Khan|Omar|Khan|05-Sep-2002| IT |IND|30957.75| m |Production Operator|active|BA
+100451|Karim Al-Farsi|Karim|Al-Farsi|16/03/1982|Environmental|philippines|32089.5|Male|IT Support|probation|High School
+100452|David Saeed|DAVID|Saeed||human resources| UAE |43259|M|Project Manager|Active| Bachelor 
+100453|Al-Kuwari, Youssef|Youssef|Al-Kuwari|1992-11-17|EHS| Qatar |26802.50|MALE|Data Engineer|Inactive|Secondary
+100454|Sophia Martinez|Sophia|Martinez|1972/01/07|HSE|UK|EGP 5,155.50|Female|Marketing Analyst|ACT|MSc
+100455|David Al-Kuwari|David|Al-Kuwari|22-Oct-1993|Marketing| usa |38922.75|M|Project Manager|ACT|Secondary
+100456|Mostafa Ibrahim|Mostafa|Ibrahim||FIN|PK|$44,500.00|male|Accountant|TERM|Master
+100457|Noora Miller|Noora|Miller|20/06/1982| Supply Chain |United Arab Emirates|24565.5|male|Data Engineer|Inactive|diploma
+100458|Noora Nasser|Noora|Nasser|unknown| Commercial |SA|$31,746.50|F|Business Analyst| Contractor |Bachelor
+100459|John Wilson|John|Wilson|1988-05-16|sales|United Kingdom|9,749|Male|Marketing Analyst| On Leave |Doctorate
+100460|MAHA AL-THANI|Maha|Al-Thani|11-20-1977|Manufacturing| India |QAR 40,156.00|Male|Sales Executive|ACT|Diploma
+100461|Khalid Al-Harbi|Khalid|Al-Harbi|1992/05/22| Supply Chain |UK|5466|FEMALE|Project Manager|active|high school
+100462|Fatima Al-Mansoori|Fatima|Al-Mansoori|06-11-1984| Marketing |saudi arabia|9,619|FEMALE|Sales Executive|Active|Bachelor
+100463|Maha Saeed|Maha|Saeed|05-Mar-1996|Sales Dept|PHL|37969.5|female|Marketing Analyst| Contractor | PhD 
+100464|Dina Miller|Dina|Miller|27-Nov-1967| Operations |GB|32,447|FEMALE|Environmental Engineer|ON_LEAVE|bachelor
+100465|James Moore|James|Moore|22/03/1985|MKT| UAE |19134.75| m |Marketing Analyst|CONT| Diploma 
+100466|Youssef Adel|Youssef|Adel|28-Aug-2003|SALES|JOR|$16,887.00|Unknown|Project Manager|Leave|Master
+100467|Olivia Patel|Olivia|Patel|1974-11-06|Manufacturing|Emirates|EGP 26,089.25|1|Data Engineer|contractor|BA
+100468|Hamad Jones|Hamad|Jones|21-Apr-1983|sales|United Kingdom|EGP 33,527.75| m |HR Specialist| Probation |high school
+100469|Ali Al-Harbi|Ali|Al-Harbi|2002/01/01|mktg|JO|41209|FEMALE|IT Support| Probation |PhD
+100470|Miller, Saad|Saad|Miller|23-May-1982|supply-chain| Qatar |19041|Male|Sales Executive| Contractor |Dipl.
+100471|Fatima Khan|Fatima|Khan|2001-03-09|Safety|JO|17,366|F|Safety Officer|A|Dipl.
+100472|Smith, Noora|Noora|Smith|1990/03/20|Human Resources|india|EGP 19,171.75|F|Accountant|Probation| High School 
+100473|Saad Davis|Saad|Davis|19/02/1992|it|Emirates|3529|Female|HR Specialist|A|MBA
+100474|David Al-Farsi|David|Al-Farsi|1974-01-03|EHS| uk |38195.25|2|Business Analyst|Contractor|master
+100475|James Taylor|James|Taylor|1975-06-18|Supply Chain|IN|29259|2|Project Manager|Terminated|high school
+100476|John Hassan|John|Hassan|30/05/1973|Manufacturing|UAE|42096.5| m |Safety Officer|contractor|BSc
+100477| Saad  Miller |Saad|Miller|11-22-1984|Human Resources|philippines|5589.75|FEMALE|Safety Officer|Contractor| Master 
+100478|Aisha Smith|Aisha|Smith|09-Jun-1997| safety | Qatar |30945.25|1|HR Specialist|Terminated|diploma
+100479|Abdullah Farouk|Abdullah|Farouk|06-17-1988| Operations |PK|28713.75|2|Data Engineer| Terminated |BSc
+100480|Saad Al-Harbi|Saad|Al-Harbi|15/12/1967|marketting|PAK|38792.5|N/A|Business Analyst|External|MSc
+100481|MARIAM AL-KUWARI|Mariam|Al-Kuwari|1969/02/25|Sales|IND|6,468|F|HR Specialist|Leave|BA
+100482|Dina Davis|Dina|Davis|03-09-1992| Operations | Qatar |6513.75|M|IT Support| On Leave |PHD
+100483|Noora Williams|Noora|Williams|30-May-1967| Marketing | Saudi |5628| f |Marketing Analyst|TERM|HS
+100484|Noora Williams|Noora|Williams|18-Aug-1984|Fin.|JOR|$34,806.00|2|HR Specialist|terminated|Master
+100485|Mohamed Ali|Mohamed|Ali|19/06/1998|SCM|PK|33520|female|Safety Officer|terminated|diploma
+100486|Sara Adel|Sara|Adel|18-Jan-2001|finance|IND|29948| m |Marketing Analyst| Probation |BA
+100487|Ava Garcia|AVA|Garcia|1988-03-31|Production|United States of America|24853.25| m |HR Specialist|On Leave|PHD
+100488|Emily Al-Salem|Emily|Al-Salem|1978-12-09| Supply Chain |India|37498.5|2|Marketing Analyst|ON_LEAVE| Master 
+100489|David Taylor|David|Taylor|09-12-1972|HR|USA|29743.50| f |Sales Executive| Probation | Master 
+100490|Mohamed Al-Thani|Mohamed|Al-Thani|1974-10-30|finance|QA|25645.25| f |Data Engineer| Contractor |DIP
+100491|Mostafa Farouk|Mostafa|Farouk|25-May-1987|FIN|Philippines|35200.25| f |Data Engineer|New Hire|bachelor
+100492|Mostafa Al-Mansoori|Mostafa|Al-Mansoori|09/11/1980|Health & Safety|india|21,146|Female|Supply Chain Coordinator|TERM|Secondary
+100493|Hamad Al-Farsi|Hamad|Al-Farsi|1966-10-24|Human Resources|IN|41,288| m |Marketing Analyst|Contractor|MBA
+100494|Hassan Saeed|Hassan|Saeed|1995-09-01|IT|India|40071.5|FEMALE|Sales Executive|PROB|master
+100495|Mariam Nasser|Mariam|Nasser|1982-12-11|human resources|GB|10445.25|male|Production Operator| Probation |master
+100496|Emily Taylor|Emily|Taylor|04-09-1994|Health & Safety|USA|13920.25|F|Sales Executive|on leave|Bachelor
+100497|Dina Nasser|Dina|Nasser|1966-06-13|Environmental|Britain|31124.00|MALE|Business Analyst|contractor|Doctorate
+100498|HAMAD DAVIS|Hamad|Davis|1973-11-16|ops|US|QAR 3,899.75|FEMALE|Accountant| Contractor |Secondary
+100499|Nour Davis|Nour|Davis|1972-05-03|FIN|philippines|27586|Male|Safety Officer|terminated|BSc
+100500|Dina Martinez|Dina|Martinez|08-11-1971|Operations|qatar|4936.25|male|Project Manager|On Leave|bachelor
+100501|Layla Miller|Layla|Miller|14/08/1995|PROD| uk |12250.75|M|Accountant|A
+100502|Mona Moore|Mona|Moore|1975-03-10|Fin.|saudi arabia|40127.25| m |Environmental Engineer| Terminated |phd
+100503|Aisha Farouk|Aisha|Farouk|12-09-1995|SALES|Saudi Arabia|23014.5|MALE|HR Specialist| Contractor |High School
+100504|David Al-Salem|David|Al-Salem|16-Jan-1972|human resources|india|16198.5|Male|Environmental Engineer|active|phd
+100505|Michael Al-Harbi|Michael|Al-Harbi|31/02/1988|FIN|qatar|17,375|Male|Accountant|Terminated|PhD
+100506|Noora Al-Farsi|Noora|Al-Farsi|1994-04-27| Supply Chain |EGY|45000.25|Female|Project Manager|Active|Dipl.
+100507|Mariam Martinez|Mariam|Martinez|11-23-1987| production |JOR|$7,205.00|F|Production Operator|PROB|Doctorate
+100508|Laila Taylor|Laila|taylor|07-11-1980|Safety|IND|13605| f |HR Specialist|ACT|HS
+100509|Laila Al-Harbi|Laila|Al-Harbi|1971/07/25| production | India |11,611| f |Project Manager|External|high school
+100510| Karim  Khan |Karim|Khan|03-Jun-1990|Production|PAK|15639.5|2|Project Manager|probation|MBA
+100511|Sara Smith|SARA|Smith|1994/12/05|SALES|Qatar|19096.25|F|Production Operator|Terminated|high school
+100512| James  Ibrahim |James|Ibrahim|11-Aug-1991|Prod|philippines|21784.25|Female|Data Engineer|A|DIP
+100513|OLIVIA AL-FARSI|Olivia|Al-Farsi|26-Dec-2003|Operation|US|6854.50|FEMALE|Safety Officer| On Leave | Bachelor 
+100514| Fatima  Khan |Fatima|Khan|1985-02-19| Environmental |Saudi Arabia|$35,440.25|FEMALE|Data Engineer| On Leave |bachelor
+100515|Heba Ali|Heba|Ali|12-30-1969|Sales Dept|IN|25445.5|Male|HR Specialist|active|HS
+100516|Tamer Moore|Tamer|Moore|1999/07/25| safety | Egypt |32037|F|Data Engineer|PROB|Doctorate
+100517|Maha Adel|Maha|Adel|22/04/1975|Sales| Egypt |$22,676.00|F|IT Support| Active |PhD
+100518|Layla Taylor|Layla|Taylor|1979-08-26| Environmental |JOR|11182.75|FEMALE|Project Manager|terminated|High School
+100519|Mohamed Davis|Mohamed|Davis|1965/10/17|I.T.|Jordan|30897.25|F|Marketing Analyst|CONT|NULL
+100520|Mohamed Patel|Mohamed|Patel|08/11/1999|I.T.|egypt|9363|M|Safety Officer|terminated|HS
+100521|Olivia Al-Farsi|Olivia|Al-Farsi|1993-12-03|Information Technology| India |42664.5|female|Production Operator| Contractor |Master
+100522|Olivia Miller|Olivia|Miller|07-Apr-1997|Operations|EG|15146.5| m |Supply Chain Coordinator|Probation|Master
+100523|Hassan Hassan|Hassan|Hassan|1992-08-20| HR |IND|10613.5|Male|Safety Officer|Contractor| High School 
+100524|Mohamed Kamal|Mohamed|Kamal|1981-02-10|IT|Emirates|43053.75|female|Supply Chain Coordinator|Terminated|Dipl.
+100525|Mostafa Al-Farsi|Mostafa|Al-Farsi|1981-02-19|env.|United Kingdom|13374|F|Environmental Engineer|Probation|Secondary
+100526|Hamad Adel|Hamad|Adel|31/02/1988|Production|EG|44212.75||HR Specialist|terminated|HS
+100527|Mahmoud Mahmoud|Mahmoud|Mahmoud|27/11/1980|Environment|QA|10790|M|Accountant|Terminated|HS
+100528|Davis, Emily|Emily|Davis|05/12/2003|I.T.| usa |36320| f |HR Specialist|active|High School
+100529|Emily Kamal|Emily|Kamal|24-Mar-1982|FIN|Philippines|7630|FEMALE|IT Support|CONT|Master
+100530|Reem Jones|Reem|Jones|1994-02-28| Supply Chain |IND|24538.25|female|Project Manager|terminated|BSc
+100531|James Ibrahim|JAMES|Ibrahim|07-18-1996| safety |Qatar|QAR 19,754.50|Male|Environmental Engineer| Terminated |Bachelor
+100532|Layla Kamal|Layla|Kamal|19/10/1982|Health & Safety|Jordan|30,372|female|Business Analyst|Terminated|diploma
+100533| Ava  Al-Thani |Ava|Al-Thani|06-09-1968|supply-chain| uk |39052.5|1|Sales Executive|contractor|Diploma
+100534|Nour Al-Mansoori|Nour|Al-Mansoori|28/11/1980|ENV|UK|7130.5| m |Safety Officer|Leave|PhD
+100535|Fatima Taylor|Fatima|Taylor|21-May-1994|ops|US|31372.5|Male|Sales Executive|ACT| Master 
+100536|Mostafa Saeed|Mostafa|Saeed|03-19-1998|IT| uk |42593.5| f |Production Operator| On Leave | Diploma 
+100537|Emily Mahmoud|Emily|Mahmoud|05-20-1991|finance|India|13,604|Male|Production Operator|On Leave|PHD
+100538|Hamad Farouk|Hamad|Farouk|06-02-1972|Environmental|Britain|25773|Male|HR Specialist|A|master
+100539|Mostafa Khan|Mostafa|Khan|08-Jan-1979|H.R.|egypt|20435.5|2|Supply Chain Coordinator|Inactive|MBA
+100540|Omar Al-Harbi|Omar|Al-Harbi|15/06/1985| production |Philippines|$30,210.25|male|Safety Officer|On Leave|phd
+100541|Aisha Taylor|Aisha|Taylor|unknown|env.| UAE |19748.75|MALE|Supply Chain Coordinator|on leave|Master
+100542| Nour  Williams |Nour|Williams|05-19-1993|IT|United Arab Emirates|28593.75| m |Project Manager|TERM|MSc
+100543|Layla Al-Farsi|Layla|Al-Farsi|11/11/1966|MKT| Saudi |34872.5| m |Sales Executive|active|PhD
+100544|James Jones|James|Jones|1995/03/14|env.| UAE |19811.75|2|IT Support|Leave|high school
+100545|Farah Kamal|Farah|Kamal|04-19-1975|H.R.|AE||F|Sales Executive|TERM|diploma
+100546|Youssef Moore|Youssef|Moore|04-29-1966|EHS|India|EGP 37,711.50|Male|Business Analyst| Active |MSc
+100547|Dina Wilson|Dina|Wilson|09-06-2000|Safety|United States|34087|1|Safety Officer|New Hire|BA
+100548|Heba Al-Farsi|Heba|Al-Farsi|02-03-1983| IT |United States|36,569|Female|Production Operator|terminated|HS
+100549|Nour Saeed|Nour|Saeed|1988-03-21|marketting|Egypt|39978|2|Production Operator|A| High School 
+100550|Omar Khan|Omar|Khan|1967-08-03|Supply Chain|EG|QAR 4,039.50|female|Environmental Engineer|ACT|Secondary
+100551|Hassan Patel|Hassan|Patel|11-20-1978|mktg|QA|||Accountant|On Leave|Doctorate
+100552|Mariam Smith|Mariam|Smith|11-06-1976|PROD| India |31190.5|2|HR Specialist|CONT|Bachelor
+100553|Noora Khan|Noora|Khan|1993-07-14|it| Saudi |EGP 42,259.00|2|Project Manager|New Hire|HS
+100554|Mahmoud Nasser|Mahmoud|Nasser|16-Mar-1971|PROD| uk |32332.5|Male|IT Support|Active| Bachelor 
+100555|Reem Adel|Reem|Adel|1968/03/25|Supply Chain|PAK|41,774| f |Supply Chain Coordinator| Terminated | Bachelor 
+100556|Sara Smith|Sara|Smith|29-Dec-1987|Safety|PH|30610.75|Male|Accountant|Probation|MBA
+EMP100557|Khalid Al-Kuwari|Khalid|Al-Kuwari|24-Apr-1991|ENV|United States of America|35672.5|FEMALE|Data Engineer|Active| High School 
+100558|Ava Smith|Ava|Smith|25-Dec-1983|MKT| UAE |21617|female|Production Operator|active|Secondary
+100559|Hassan Ali|Hassan|Ali|1986/03/13|Supply Chain| Philippines |11956|1|Production Operator||MSc
+100560| Hassan  Miller |Hassan|Miller|03-09-1990|Operation|United Arab Emirates|38171.5| m |Production Operator|active|High School
+100561|Mahmoud Williams|Mahmoud|Williams|09/03/1999|Production|IN|QAR 19,450.75|M|Production Operator|active|bachelor
+100562|Omar Mostafa|Omar|Mostafa|08/05/1973|Sales|qatar|30737.50|M|Data Engineer|External|Bachelor
+100563|Karim Al-Salem|Karim|Al-Salem||EHS|Britain|EGP 11,215.75|Female|Sales Executive|Active| PhD 
+100564|Adel, Dina|Dina|Adel|1996-12-12| safety |US|12742|female|Data Engineer|Active|NULL
+100565|Aya Khan|Aya|Khan|1974/09/15|human resources|USA|38853|female|Production Operator|Inactive|master
+100566|Robert Saeed|Robert|Saeed|25/10/1976| HR |United Kingdom|25915|male|IT Support|Active|diploma
+100567|Emily Mahmoud|Emily|Mahmoud|06-Feb-1997|Health & Safety|Emirates|25177|MALE|Supply Chain Coordinator| Terminated | Diploma 
+100568|John Wilson|John|Wilson|05-31-1986|EHS|EGY|37071.25| m |Supply Chain Coordinator|active|Bachelor
+100569|LAYLA AL-MANSOORI|LAYLA|Al-Mansoori|08-28-1965|Finance|AE|7117.5|F|Accountant| Terminated |MSc
+100570|Robert Mahmoud|Robert|Mahmoud|21-Feb-1987|EHS|EG|EGP 23,106.00|male|Data Engineer|New Hire|Doctorate
+EMP100571|Olivia Brown|Olivia|Brown|26/03/2001|OPS|Qatar|38586.5|M|Sales Executive|active|MSc
+100572|Laila Taylor|Laila|Taylor|22-Feb-1970|SALES| Egypt |23232|M|IT Support|ACT|HS
+100573|Laila Patel|Laila|Patel|2000-02-01|Supply Chain|PH|$22,012.50|M|Data Engineer| Contractor | Bachelor 
+100574|Hamad Ibrahim|Hamad|Ibrahim|1986-09-24|PROD|PH|24732| m |Business Analyst|active|High School
+100575|Mohamed Al-Harbi|Mohamed|Al-Harbi|27-Jul-1977|EHS|pakistan|$9,391.00|F|Supply Chain Coordinator|ACT|PHD
+100576|Sara Taylor|Sara|Taylor|08-Feb-1966|Information Technology|Emirates|QAR 25,105.00|M|Project Manager|On Leave|Diploma
+100577|Mostafa Saeed|Mostafa|Saeed|1984-05-20|Fin.|egypt|18443.75|Male|Sales Executive|CONT|BSc
+100578|Omar Davis|Omar|davis|13/04/1997|Environmental|United Kingdom|QAR 40,440.25|M|Accountant|on leave|HS
+100579|Emma Al-Harbi|Emma|Al-Harbi|22/01/1991|I.T.|jordan|39395.25|M|Safety Officer|Contractor|Dipl.
+100580|Layla Johnson|Layla|Johnson|2000/09/23|HSE|UK|$6,845.50|Male|IT Support| Terminated |bachelor
+100581|Noora Al-Thani|Noora|Al-Thani||Environment| Qatar |37,352|FEMALE|Business Analyst| Contractor |high school
+100582|David Brown|David|Brown|16-Feb-1978| Commercial |PK|21432.50|Male|Sales Executive|A|BA
+100583|JAMES KHAN|James|Khan|04-14-2003|Environmental| Pakistan |38476.5|female|Production Operator|ON_LEAVE|HS
+100584|Hassan Al-Thani|Hassan|Al-Thani|unknown|mktg|AE|18396.25| m |HR Specialist|CONT|high school
+EMP100585|Faisal Brown|Faisal|Brown|1987-07-01|HSE|QA|28178|1|Sales Executive|on leave|DIP
+100586|Taylor, James|James|Taylor|11/02/1983|MKT|UK|12595.5| f |Accountant| Terminated | High School 
+100587|Fatima Davis|Fatima|Davis|1977/09/11| HR | Pakistan |12643.25| f |Project Manager||High School
+100588|Olivia Brown|Olivia|Brown|09/05/1968|Logistics|United States of America|22866.75|Female|Accountant|TERM|MSc
+100589|Noora Mahmoud|Noora|Mahmoud|22-Sep-2002|Sales Dept|IN|43064.75| f |Business Analyst| Contractor | High School 
+100590|Farah Garcia|Farah|Garcia|1980/09/11|mktg|UK|32496.25|female|Sales Executive| Contractor |bachelor
+100591|Hassan Martinez|Hassan|Martinez|04-Mar-1988|OPS|IN|42665.25|female|Marketing Analyst|On Leave|Master
+100592| Dina  Saeed |Dina|Saeed|1975/04/24| Supply Chain |IND|14619|MALE|Sales Executive|contractor|PHD
+100593|Sara Ali|Sara|Ali|14/12/2000|Sales Dept|qatar||female|Business Analyst| Contractor |bachelor
+100594|Al-Harbi, Mohamed|Mohamed|Al-Harbi||sales|GB|$40,886.50|male|Sales Executive|External|Diploma
+100595|Olivia Davis|OLIVIA|Davis|1995-10-15|Health & Safety|United Arab Emirates|QAR 31,336.25|Unknown|IT Support|contractor| Diploma 
+100596|David Farouk|David|Farouk|11-30-2003| Operations |AE|8660.5|2|Environmental Engineer| Active |high school
+100597|Hamad Davis|Hamad|Davis|20-May-1980|mktg|US|EGP 31,331.50| f |Business Analyst| Contractor |MBA
+100598|Emily Wilson|Emily|Wilson|1966/12/05|Sales Dept|UK|7154.25|1|HR Specialist| On Leave |BA
+100599| Dina  Wilson |Dina|Wilson|14/10/1971|Operation|Jordan|5682.75| f |Marketing Analyst|Inactive|DIP
+100600|Laila Farouk|Laila|Farouk|1979-04-21|Finance| Saudi |22104.5|1|Business Analyst| Terminated |diploma
+100601|Mostafa Al-Harbi|Mostafa|Al-Harbi|unknown|Sales|Jordan|$41,753.75|female|HR Specialist|Leave|high school
+100602|Mohamed Mahmoud|Mohamed|Mahmoud|19/04/1992| IT |IND|22,798|FEMALE|Environmental Engineer|active|Master
+100603|Youssef Adel|Youssef|Adel|03/03/1988|human resources|PHL|28,436|M|Data Engineer|PROB| Bachelor 
+100604|Robert Mostafa|Robert|Mostafa|12-Dec-1983|Supply Chain|Jordan|$31,620.25|FEMALE|Environmental Engineer| Terminated | Master 
+100605|Mostafa Al-Farsi|Mostafa|Al-Farsi|08-09-1974|H.R.|JOR|26355| f |HR Specialist|CONT|MSc
+100606|Hassan Adel|Hassan|Adel|11-Apr-1989|I.T.|Britain|29,978|M|Environmental Engineer| Terminated |BA
+100607|Mostafa Al-Farsi|Mostafa|Al-Farsi|09-Dec-1985|Environment|QAT|$33,516.25|female|Project Manager|Inactive|high school
+100608|Hamad Saeed|Hamad|Saeed|08-22-1995|EHS| India |12987| f |HR Specialist| On Leave |PHD
+100609|Ali Khan|Ali|Khan||Operation|PHL|41326|1|Marketing Analyst|Terminated|High School
+100610|Nour Moore|Nour|Moore||SALES| Saudi |39245.75|MALE|Environmental Engineer|External|HS
+100611|Smith, Emily|Emily|Smith|12-26-2000|Operations|EG|34,909|female|Production Operator|Level 2|Terminated|PhD
+100612|Olivia Taylor|Olivia|Taylor|06/11/1975|PROD|AE|18393.5|Male|Accountant|on leave| PhD 
+100613|John Hassan|John|Hassan|1993/12/17|OPS|jordan|19175.75|M|IT Support|Leave|high school
+100614|FAISAL PATEL|Faisal|Patel|22/11/1995|Environment|Emirates|19821.5|Female|Business Analyst| Contractor |High School
+100615|James Martinez|James|Martinez|unknown|EHS|Pakistan|28966.5|M|Project Manager|A|Secondary
+100616|Sara Garcia|Sara|Garcia|10-06-2000|Health & Safety|saudi arabia|EGP 17,836.00|MALE|Production Operator|CONT|high school
+100617|Noora Al-Mansoori|Noora|Al-Mansoori|24-Jun-1980| Commercial |IN|44803|2|Safety Officer|contractor|Bachelor
+100618|KHALID GARCIA|Khalid|Garcia|1984-11-14| IT |jordan|7,923| m |IT Support| Probation |Doctorate
+100619|Nour Khan|Nour|Khan|09-Feb-1984|Information Technology|PAK|11,230||Accountant| On Leave | Master 
+100620|Aya Saeed|Aya|Saeed|22/12/1977|Sales Dept|Pakistan|42682.25| f |Data Engineer|On Leave| Bachelor 
+100621|Al-Harbi, Ava|Ava|Al-Harbi|1975-10-17|Supply Chain| Saudi |11906.5|Male|IT Support|Inactive| High School 
+100622|John Garcia|John|Garcia|1994-09-11|it| Philippines |33218|Male|Supply Chain Coordinator|On Leave|HS
+100623|Hassan Al-Thani|Hassan|Al-Thani|1967/10/15|FIN|United Arab Emirates|35977.25|male|Marketing Analyst|on leave|MSc
+100624|James Williams|JAMES|Williams|03-Oct-1977|env.|philippines|37416| f |Production Operator|PROB|Doctorate
+100625|Mostafa Al-Thani|Mostafa|Al-Thani|24-Oct-1976|Safety| Qatar |QAR 37,742.25| m |Environmental Engineer|on leave|Master
+100626|Emily Al-Kuwari|Emily|Al-Kuwari|04/10/1976|Sales Dept|IND|30572.25|FEMALE|Production Operator|active|Secondary
+100627|Michael Mahmoud|Michael|Mahmoud|21/05/1975|Production|UAE|23261.25|M|HR Specialist| Contractor |PhD
+100628|Karim Farouk|Karim|Farouk|11-16-1971|Sales Dept|USA|4687.25|2|Accountant| Contractor |MBA
+100629|Khalid Taylor|Khalid|Taylor|1975-04-10|marketting|india|24255.5|1|Supply Chain Coordinator|On Leave|HS
+100630|Layla Jones|Layla|Jones|24/11/1966|Marketing|JOR|16155.75|FEMALE|IT Support|ACT|phd
+100631|Hamad Mostafa|Hamad|Mostafa||I.T.|QAT|44221.5|MALE|Marketing Analyst| Active |master
+100632| Khalid  Davis |Khalid|Davis|13/04/1994| Accounting | usa |17015.25|FEMALE|Safety Officer|CONT|phd
+100633|Olivia Adel|Olivia|Adel|23/11/1970|Supply Chain| Pakistan |20507.25| m |IT Support|Active|Dipl.
+100634|Hamad Al-Salem|Hamad|Al-Salem|1973-02-11|FIN| Egypt |32890.25| m |IT Support|Contractor|Bachelor
+100635|Aisha Hassan|Aisha|Hassan|04-27-1988|Operation| Pakistan ||MALE|Project Manager|probation| High School 
+100636|Tamer Hassan|Tamer|Hassan|unknown| Operations |egypt|13333.5|N/A|Marketing Analyst|Inactive|PhD
+100637|DINA NASSER|Dina|Nasser||Manufacturing|US|14255.75|M|Business Analyst|Terminated|master
+100638|Mohamed Martinez|Mohamed|Martinez|20/11/1974|Health & Safety| usa |QAR 31,502.50|female|Production Operator|Contractor|BA
+100639|Michael Smith|Michael|Smith|1998-01-02| Marketing |PHL|5828.25|2|Supply Chain Coordinator|Probation|Doctorate
+100640|Nour Saeed|Nour|Saeed|1995/10/12| Operations | Egypt |38396.5||Business Analyst|External|Bachelor
+EMP100641|Mostafa Brown|Mostafa|Brown|23-Oct-1979| Commercial |egypt|5847|FEMALE|HR Specialist|active|HS
+100642|Fatima Al-Farsi|Fatima|Al-Farsi|1996-03-28|FIN|PH|EGP 11,714.00|Female|IT Support|PROB| Diploma 
+100643|Laila Miller|Laila|Miller|25-Jan-1978|finance|EG|26,082|female|HR Specialist|ACT| Master 
+100644|Omar Mahmoud|Omar|Mahmoud|1978-09-13|Health & Safety|India|8046|2|Sales Executive|New Hire|PhD
+100645|Youssef Al-Thani|Youssef|Al-Thani|1992-08-09|sales|pakistan|13584|male|Sales Executive|Contractor|PhD
+100646|Aisha Patel|Aisha|Patel|29-Jun-1965| Operations |EG|$32,029.50|female|HR Specialist|ON_LEAVE|PHD
+100647|Emma Adel|Emma|Adel|29/05/1997|sales|IN|32916.75| m |Environmental Engineer|Leave|high school
+100648|Ahmed Kamal|Ahmed|Kamal|1988-10-07|Operation|IND|31873.50|Female|Production Operator|Active|Doctorate
+100649|Robert Jones|Robert|Jones|22/05/1968|Finance| usa |4588|2|Environmental Engineer|contractor|MSc
+100650|Karim Jones|Karim|Jones|1966/01/27|EHS|india|$20,570.00|F|Sales Executive|New Hire|diploma
+100651|Ahmed Al-Salem|Ahmed|Al-Salem|03-03-1997| IT |IND|33686.75||Accountant|PROB|MBA
+EMP100652|Fatima Williams|Fatima|Williams|1993/02/16|Safety| Qatar |44797.25|F|Business Analyst|TERM|Bachelor
+100653|Hamad Al-Harbi|Hamad|Al-Harbi|01/02/2001|Prod|US|23141.5|male|Environmental Engineer|New Hire| Master 
+100654|David Wilson|David|Wilson|08-01-1966|Manufacturing|JO|8,376|Male|Business Analyst|Terminated|Diploma
+100655|Youssef Miller|Youssef|Miller|10-10-1978|Fin.|QA|EGP 44,798.50|female|Project Manager|ACT|Secondary
+100656|KARIM PATEL|Karim|patel|05-22-1995|HSE| Jordan |29016.5|female|Safety Officer| Active | High School 
+100657|Hamad Al-Salem|Hamad|al-salem|06-07-1997|Operations| Philippines |7,674| m |Accountant|Leave|phd
+100658|Farah Nasser|Farah|Nasser|31/02/1988|Sales Dept|philippines|QAR 37,129.00|2|IT Support|CONT|bachelor
+100659|Reem Adel|Reem|Adel|1982/01/13|Production|Pakistan|$11,410.00|Male|Data Engineer| On Leave |Diploma
+100660|Omar Jones|Omar|Jones|10-Jun-1980|marketting|IND|39350.75||Supply Chain Coordinator|External|Dipl.
+100661|Robert Taylor|Robert|Taylor|12/05/2002|ENV|US|24974.25|FEMALE|Safety Officer|Probation|master
+100662|Sara Martinez|SARA|Martinez|10-13-1993|Marketing|India|19570.25| m |Sales Executive|Contractor|MBA
+100663|Taylor, Sophia|Sophia|Taylor|08-Sep-1971|EHS|Jordan|19278.25|2|IT Support|External|Secondary
+100664|Reem Patel|Reem|Patel|16/09/1987| Environmental |Pakistan|13256.75| f |HR Specialist|ACT| High School 
+100665|Mona Al-Kuwari|Mona|Al-Kuwari|1975/10/06| Marketing |PAK|44716|2|Safety Officer|Inactive|BSc
+100666|Farah Al-Salem|Farah|Al-Salem|02-01-1999|SALES|Pakistan|21,378|FEMALE|Marketing Analyst|On Leave|NULL
+100667|Hassan Al-Mansoori|Hassan|Al-Mansoori|2003-08-16|it|USA|9652.25|female|Sales Executive|ACT|MBA
+100668|Mona Martinez|Mona|Martinez|1980/01/01| Supply Chain |United States of America|10316|1|HR Specialist|Contractor| Master 
+100669|Mahmoud Hassan|Mahmoud|Hassan|1984/08/13|Fin.|india|35556.75|Female|Data Engineer|PROB|bachelor
+100670| Dina  Al-Thani |Dina|Al-Thani|1980/05/23| Supply Chain |pakistan|QAR 8,024.00| m |Sales Executive|Contractor|Dipl.
+100671|Emma Kamal|Emma|Kamal|26/01/1984|Operation|pakistan|27,475|female|Safety Officer|Terminated| Bachelor 
+100672|Faisal Mahmoud|Faisal|Mahmoud|1969/10/04|SALES|jordan|EGP 18,545.75|2|Safety Officer|ON_LEAVE|Secondary
+100673|Emily Al-Kuwari|Emily|Al-Kuwari|07-11-1989|Human Resources|Egypt|24238|F|Sales Executive|contractor| High School 
+100674|Saad Khan|Saad|Khan|1975-08-17|I.T.|jordan|23557|Male|Marketing Analyst|Active|bachelor
+100675| Layla  Mahmoud |LAYLA|Mahmoud|1969-03-14|IT|India|18924.25| f |Business Analyst|Contractor| Diploma 
+100676|NOORA AL-MANSOORI|NOORA|Al-Mansoori|01/01/1970| Accounting |AE||Female|Data Engineer|New Hire|Bachelor
+100677|Saad Ali|Saad|ali|1994/09/12|Marketing| usa |QAR 33,348.00|1|Project Manager| Probation | Master 
+100678|Michael Miller|Michael|Miller|25/01/1986|human resources|KSA|7225.5|MALE|Data Engineer|Inactive|Doctorate
+100679|Hamad Garcia|Hamad|Garcia|1985-02-17|Sales Dept|Qatar|27578.5|male|Supply Chain Coordinator|PROB| Bachelor 
+100680|John Nasser|John|Nasser|1967-10-15|H.R.|egypt|31599.25|1|Data Engineer|on leave| High School 
+100681|Farah Brown|Farah|Brown|11/01/1986|Operation|JOR|19417.75|N/A|Supply Chain Coordinator|active|Bachelor
+100682|Robert Mahmoud|Robert|Mahmoud|03/04/2003| Operations |United Arab Emirates|28190.75|1|Environmental Engineer|Active| High School 
+100683|Ava Al-Salem|Ava|Al-Salem|17-Jul-1985|Logistics|Egypt|18139.25|female|HR Specialist|TERM|diploma
+100684|James Davis|James|Davis|1970/08/08|Supply Chain|UK|28610.5|FEMALE|Accountant| Contractor |master
+100685|Ava Ali|Ava|Ali|02-Oct-1972|SCM|pakistan|20666.5|male|Accountant|External|BA
+100686|Khalid Al-Mansoori|Khalid|Al-Mansoori|1974/08/11| safety |Emirates|42045.25|2|Environmental Engineer|CONT|MSc
+100687|Nour Al-Harbi|Nour|Al-Harbi|03-17-1998|I.T.|Pakistan|26170|1|Sales Executive|probation|MSc
+100688|Dina Johnson|Dina|Johnson|10/11/1976| Environmental |UAE|24,369|female|Accountant|Active|master
+100689|Mohamed Williams|Mohamed|Williams|04/09/2001|ENV|United States of America|4,183|Female|Sales Executive|probation|bachelor
+100690|David Adel|David|Adel|02-Jan-1996| HR |AE|15710.00|female|Project Manager|Probation|Diploma
+EMP100691|David Moore|David|Moore|28/10/1967|supply-chain|QAT|22177.25|Female|HR Specialist| Contractor |High School
+100692|Aya Hassan|Aya|Hassan|02-12-1986|Prod| Pakistan |QAR 13,067.00| f |Business Analyst|active| PhD 
+100693|Farah Al-Mansoori|Farah|Al-Mansoori|1985-02-03|Information Technology|PK|35837.75|female|IT Support|Contractor|PHD
+100694| Dina  Saeed |Dina|Saeed|1991-11-02| Environmental |SA|40318.25|Male|Marketing Analyst|Leave|phd
+100695|Michael Farouk|Michael|Farouk|1971-11-13| Operations |IN|EGP 9,715.25|2|Environmental Engineer|Probation|Bachelor
+100696|Fatima Martinez|Fatima|Martinez|09/12/2000|Supply Chain|AE|4200.5|FEMALE|Data Engineer|Contractor| High School 
+100697|Emily Brown|Emily|Brown|11-Sep-1994|Logistics|pakistan|23129.5|2|Sales Executive| Terminated |diploma
+100698| Ahmed  Miller |Ahmed|Miller|1977/12/26|ops| Saudi |17715.25|Female|Sales Executive|PROB| High School 
+100699|Ahmed Miller|Ahmed|Miller|1970/10/07|SALES| Egypt |7919.25|male|Accountant| Terminated |BA
+100700|Ava Mostafa|Ava|Mostafa|1999-02-08|Information Technology|KSA|11078.75|F|Data Engineer|terminated|Diploma
+100701|Omar Khan|Omar|Khan|09-Sep-1969| Operations | usa |EGP 27,929.00|Male|Project Manager|Contractor|DIP
+100702|Mohamed Al-Harbi|Mohamed|Al-Harbi|09-24-1967|SCM|Philippines|7977|2|Project Manager| Probation |BSc
+100703|Mohamed Brown|Mohamed|Brown|29-Apr-1981|finance|QAT|15045.5|FEMALE|Accountant| Terminated |Secondary
+100704|Michael Khan|Michael|Khan|10-30-1974|SALES|IN|41722|1|IT Support|terminated|bachelor
+100705|Faisal Al-Kuwari|Faisal|Al-Kuwari|15-Nov-1979|Human Resources|SA|8743.25|Male|Environmental Engineer|Contractor| Diploma 
+100706|James Al-Harbi|James|Al-Harbi|1996/02/03| Commercial |PH|$11,050.50|Male|HR Specialist|ACT|diploma
+100707|Youssef Brown|Youssef|Brown|28-Mar-1985|I.T.|PH|QAR 25,641.50|F|Supply Chain Coordinator|contractor|MSc
+100708|Sophia Kamal|Sophia|Kamal|10/10/2001|I.T.|GB|28452|M|Sales Executive|ACT|phd
+100709|John Khan|John|Khan|03/03/1967|HR|EGY|EGP 9,974.75|2|Production Operator| Contractor |MSc
+100710|Saad Farouk|Saad|Farouk|26/11/1985|SCM|QA|22530|2|Project Manager|terminated| Bachelor 
+100711|Taylor, Sophia|Sophia|Taylor||env.|GB|14632|M|Environmental Engineer|ON_LEAVE|bachelor
+100712|David Hassan|David|Hassan|25/09/1975|PROD|Qatar|40118.5|FEMALE|Business Analyst|CONT|High School
+100713|Mohamed Smith|Mohamed|smith|08/06/1992|Environment|egypt|11,267| m |Project Manager|Probation|MBA
+100714|Tamer Farouk|Tamer|Farouk|09-Jul-1968|Environment|Emirates|32609|MALE|Marketing Analyst|TERM|MBA
+100715|MAHA ADEL|Maha|Adel||Sales Dept|Emirates|21376.75|F|Data Engineer|A| Diploma 
+100716|Aisha Al-Kuwari|Aisha|Al-Kuwari|15-Oct-1980|SALES|PAK|23511.25|MALE|Business Analyst|Probation|MSc
+100717|Emily Nasser|Emily|Nasser|07-12-1998|Marketing|United Arab Emirates|25089.00|MALE|Marketing Analyst|New Hire| Bachelor 
+100718|Ali Brown|Ali|Brown|21-Mar-2003|Finance|india|25,729|female|HR Specialist|probation|High School
+100719|Fatima Jones|Fatima|Jones|05/08/1998|MKT|PK|EGP 3,819.25| m |Business Analyst|Inactive|Diploma
+100720|Martinez, Karim|Karim|Martinez|2001/12/12|finance|US|5192|male|Safety Officer|contractor|HS
+100721|Maha Farouk|Maha|Farouk|25-Feb-1978|Manufacturing|qatar|EGP 25,345.50|1|Data Engineer|Probation| Diploma 
+100722|Mostafa Farouk|Mostafa|Farouk|01-Apr-1983|Sales| Jordan |10,874|M|Sales Executive|A|Diploma
+100723|Sophia Hassan|Sophia|Hassan|2000-02-29|HSE|United States|N/A|M|Project Manager| Contractor | Master 
+100724|Hassan Johnson|Hassan|Johnson|1983-05-31|IT|Jordan|25,012|1|Data Engineer|contractor|BA
+100725|Sophia Khan|Sophia|Khan|06-10-1983|Logistics|india|32916.25|2|Marketing Analyst|on leave|bachelor
+100726|Khalid Ali|Khalid|Ali|30-Dec-1978|human resources|PK|34128.25|female|Project Manager|PROB|Bachelor
+100727|Maha Martinez|Maha|Martinez|unknown|SALES|egypt|25324|female|Environmental Engineer| Terminated |Diploma
+100728|Noora Martinez|Noora|Martinez|27/12/2000| safety | Jordan |27953.5|M|Marketing Analyst|Probation| Diploma 
+100729|John Ibrahim|John|Ibrahim|| production |SA|12,840|male|Environmental Engineer|PROB|BA
+100730|Sara Mahmoud|Sara|Mahmoud|2003-02-26|Manufacturing|saudi arabia|21792.50|1|Environmental Engineer| Active |Doctorate
+100731|Hassan, Fatima|Fatima|Hassan|1966-02-07|Manufacturing| Egypt |11067.25|male|Data Engineer|Active| High School 
+100732|Youssef Jones|Youssef|Jones|1993/08/18|mktg|GB|27,946|2|Environmental Engineer|ON_LEAVE|HS
+100733|Abdullah Khan|Abdullah|Khan|28-Aug-1987|SALES|jordan|35,085|female|Business Analyst| Terminated |master
+100734|Kamal, Abdullah|Abdullah|Kamal|1993/04/26|SCM|UAE|38830|Male|Supply Chain Coordinator|on leave|HS
+100735|Dina Kamal|Dina|kamal|23/05/2000|Prod|qatar|EGP 26,206.50|FEMALE|Sales Executive|PROB|High School
+100736|James Khan|James|Khan|05-17-1971| HR | Qatar |43849.25|M|Production Operator|on leave| Master 
+100737|David Al-Harbi|David|Al-Harbi|25-Nov-1979|Fin.| UAE |19954.75|1|Marketing Analyst| On Leave |high school
+100738|Dina Williams|Dina|Williams|07-May-1989|finance|PH|7285.5|Male|Safety Officer|probation|bachelor
+100739|Tamer Ibrahim|Tamer|Ibrahim|15/02/2001|mktg|saudi arabia|42,237|2|Production Operator| Active | Bachelor 
+100740|Tamer Al-Farsi|Tamer|Al-Farsi|23/04/1968|Safety| Qatar |18768|MALE|HR Specialist|on leave|Secondary
+EMP100741|Faisal Hassan|Faisal|Hassan|1976-07-19|Finance|QA|6138.75|Female|Accountant|External|Dipl.
+100742|Aya Mostafa|Aya|Mostafa|2003/07/31|PROD|EG|9,562| m |Supply Chain Coordinator|probation|MSc
+100743|Abdullah Garcia|Abdullah|Garcia|21/01/1998| HR |United States|6816.25|Female|HR Specialist|A|Dipl.
+100743|Adel, Mostafa|Mostafa|Adel|1988/12/30|Information Technology|Pakistan|20739.5| f |Marketing Analyst| Active | PhD 
+100745|Mona Hassan|Mona|Hassan|19-Jul-1977|Prod| Egypt |24324.25|MALE|Production Operator| Contractor |diploma
+100746|Maha Mahmoud|Maha|Mahmoud|06-Mar-2001| IT |United Kingdom|14998.5|1|Business Analyst|Contractor|DIP
+100747|Dina Kamal|Dina|Kamal|28/10/1987|Prod| UAE |10,110|MALE|HR Specialist|External|BA
+100748| Omar  Moore |Omar|Moore|2002/07/10|Logistics| Saudi |3716.5|2|Project Manager|Probation|master
+100749|Youssef Smith|Youssef|Smith|02-05-1982|Production| Qatar |EGP 40,030.00|2|Safety Officer|Active|diploma
+100750|Maha Smith|Maha|smith|1975/01/01|it|US|11,644|Female|HR Specialist| Contractor |PHD
+EMP100751|Saeed, Khalid|Khalid|Saeed|2002/01/27|SCM|Pakistan|EGP 10,410.00|MALE|Supply Chain Coordinator|contractor|HS
+100752|Mariam Ali|Mariam|Ali|11-Mar-1976|Operation|KSA|7696.25|Male|Accountant|probation|Master
+100753|Layla Patel|Layla|Patel|1972-06-25|Fin.| Pakistan |17063.25|Male|IT Support|on leave|Doctorate
+100754|Hamad Adel|Hamad|Adel|07-Apr-1988|finance| Qatar |7734.75|2|IT Support|CONT|bachelor
+100755| Youssef  Brown |Youssef|Brown|1975-08-29|HSE|Emirates|38,788|MALE|Environmental Engineer|Contractor|Secondary
+100756| David  Al-Thani |David|Al-Thani|22-Apr-1997|it|EG|9614| f |Supply Chain Coordinator|TERM|Master
+100757|Saeed, Faisal|Faisal|Saeed|1965/01/06|Manufacturing| usa |23893.5|1|Safety Officer|probation|master
+100758|James Johnson|James|Johnson|1997/07/02|I.T.|PH|40253.25|F|Business Analyst|probation|PhD
+100759|Ahmed Saeed|Ahmed|Saeed|1996-06-26|Environment|USA|14565|Male|Accountant|Contractor|diploma
+100760|Saad Al-Farsi|Saad|Al-Farsi|1992-11-04|MKT| uk |33,130| f |Marketing Analyst|on leave|Doctorate
+100761|Omar Mostafa|Omar|Mostafa|1984-06-20|IT|GB|21032|2|Marketing Analyst| Terminated |Master
+100762|Al-Mansoori, Hamad|Hamad|Al-Mansoori|12-Nov-2000| HR | usa |43319.5|F|Safety Officer|New Hire|Master
+100763|Noora Adel|Noora|Adel|06-May-1986|Production|IN|7211.75|FEMALE|HR Specialist|Active|PhD
+100764| Aya  Saeed |Aya|Saeed|1970/04/04|ENV|Britain|37970|FEMALE|Sales Executive| Active |phd
+100765|Saad Adel|Saad|Adel|11/06/1990|Marketing|United Kingdom|9567.5|M|HR Specialist| Probation |MSc
+100766|Karim Saeed|Karim|Saeed|1999/04/26|Marketing|United States of America|$27,461.50| m |Supply Chain Coordinator|External|diploma
+100767|Mostafa Al-Kuwari|MOSTAFA|Al-Kuwari|unknown|SALES|pakistan|8204.75| f |Accountant|probation|BA
+100768|Youssef Taylor|Youssef|Taylor|06-20-1996|I.T.|United States|12987.25|Unknown|Project Manager|Leave|BA
+100769|Sophia Al-Kuwari|Sophia|Al-Kuwari|26/04/1973|Manufacturing|India|25,675|male|Environmental Engineer| Contractor |phd
+100770|Reem Jones|REEM|Jones|25-Jul-1986|sales|pakistan|22609.25|Male|Data Engineer|terminated| Bachelor 
+100771|Emma Al-Thani|Emma|Al-Thani|1990-12-05|MKT|JO|32827.5| f |IT Support|CONT|phd
+100772|Hassan Wilson|Hassan|Wilson|11/08/2003|Information Technology|IND|10347.5|2|Accountant|ON_LEAVE|HS
+100773|Heba Wilson|HEBA|Wilson|24-Dec-1993|SCM| Qatar |3795.50|MALE|Project Manager|On Leave|Master
+100774|Faisal Garcia|Faisal|Garcia|1971/04/14|Human Resources| Qatar |11,007|M|Environmental Engineer| Terminated |Master
+100775|Al-Harbi, Reem|Reem|Al-Harbi|05/02/1985|Marketing|PK|23018.25|female|Marketing Analyst|Inactive| Diploma 
+100776|Karim Ibrahim|Karim|Ibrahim|1992-10-21|OPS|AE|20985.75|Male|Marketing Analyst| Probation |MSc
+100777|Abdullah Davis|Abdullah|Davis|1996-12-05|human resources|QAT|14131|Male|Project Manager|External| PhD |EXTRA_COL
+100778|Mohamed Williams|Mohamed|Williams|10-24-1993|human resources| uk |$20,832.50|MALE|Production Operator|contractor|Secondary
+100779|John Hassan|John|Hassan|12-21-1998|FIN|india|35406.5|M|Safety Officer| Active |bachelor
+100780|Mariam Al-Harbi|Mariam|al-harbi|06/01/2001|Information Technology|United Kingdom|$38,427.00| f |IT Support| Contractor |diploma
+100781|Fatima Al-Harbi|Fatima|Al-Harbi|2000/01/28|ops|jordan|32458|male|Sales Executive| Probation | High School 
+100782|Robert Al-Mansoori|Robert|Al-Mansoori|27/03/1991|HR|philippines|9583.5| f |Marketing Analyst|A|BSc
+100783|Mohamed Williams|Mohamed|Williams||SCM|philippines|39,224|male|Marketing Analyst|Leave|PhD
+100784|Heba Hassan|Heba|Hassan|11/03/1986|Sales|jordan|23,867|1|Safety Officer|contractor|Dipl.
+100785|Moore, Maha|Maha|Moore|05-Jun-1975|sales|India|EGP 13,983.00| m |Project Manager|active|Secondary
+100786|Farah Hassan|Farah|Hassan|08-29-1997|I.T.|KSA|31373.25|FEMALE|Business Analyst|On Leave|PhD
+100787|Emma Adel|Emma|Adel|01-15-1982|Safety| uk |41354.00|1|Project Manager|Terminated|BSc
+100788|Khalid Adel|Khalid|Adel|11-10-1997|Supply Chain| usa |17,598|Female|Project Manager|On Leave|Secondary
+100789|Fatima Smith|Fatima|Smith|04-09-2003|Sales Dept|Qatar|36427| f |Marketing Analyst|Inactive|Master
+100790|Al-Kuwari, Sara|Sara|Al-Kuwari|27/11/1994|SALES|Egypt|8381.25|male|IT Support|A|BA
+100791|Laila Al-Salem|LAILA|Al-Salem|09/01/1978|Finance|United States|27,629|Unknown|Data Engineer|New Hire|Doctorate
+100792|Smith, Faisal|Faisal|Smith|19-Aug-1988|HR|PH|36650.75|N/A|Accountant| Active |high school
+100793|Laila Mostafa|Laila|Mostafa|04-05-2000|Sales|Britain|17402|female|HR Specialist|On Leave|PHD
+100794|Hamad Smith|Hamad|Smith|1988-11-11| Environmental |USA|36693.50|MALE|IT Support|External|master
+100795|Youssef Jones|Youssef|Jones|20/11/1967|SCM|PH|18989.5|female|Safety Officer|Probation|MBA
+100796|Aya Brown|Aya|Brown|04-Oct-1972|Human Resources|philippines|40682.25|1|Sales Executive|PROB|DIP
+100797|Ava Kamal|Ava|Kamal|2000/05/17|human resources|Britain|33916.75|1|Data Engineer| Active | PhD 
+100798|REEM JOHNSON|Reem|Johnson|10-Jul-1996|marketting|PAK|31898.75|2|Sales Executive|Leave| Bachelor 
+100799|Mohamed Hassan|Mohamed|Hassan|16/03/1997| Marketing |EGY|34643.5|F|Data Engineer|probation|DIP
+100800|Hassan, Sophia|Sophia|Hassan|11-Oct-1973|env.|India|14497.25|Male|IT Support|Contractor|phd
+100801|James Patel|James|Patel|15/04/1980|SALES|United Kingdom|42567.75|female|Production Operator|A|phd
+100802|Robert Moore|Robert|Moore|04-29-1970| production |IND|15243.25|M|Sales Executive|ON_LEAVE| Master 
+100803|Ahmed Taylor|Ahmed|Taylor|05-22-1994|Operation|QA|25264.25|MALE|IT Support|probation|Dipl.
+100804|MOSTAFA MOORE|Mostafa|Moore|2002/12/18|mktg|pakistan|43552.5|F|Environmental Engineer|Leave|master
+100805|Hamad Brown|Hamad|Brown|1966/06/02|Environment|United States of America|3799.5|MALE|IT Support|Contractor|high school
+100806|Sophia Johnson|Sophia|Johnson|1995-11-08|Logistics|KSA|N/A|Female|Sales Executive|active|bachelor
+100807|Emma Ali|Emma|Ali|1980/01/10|human resources|saudi arabia|8415.25|1|Environmental Engineer|PROB|Secondary
+100808|Noora Smith|NOORA|Smith|14/12/2002|SCM|United Kingdom|18176.75|MALE|HR Specialist|TERM|Doctorate
+100809|Abdullah Al-Salem|Abdullah|Al-Salem|29/03/1968|ops| India |20090.5|Male|IT Support|probation|master
+100810|Sophia Hassan|Sophia|Hassan|17/06/1966|Manufacturing|PH|$39,214.00|2|Safety Officer|ACT|PhD
+100811|Aya Saeed|Aya|Saeed|05-05-1991|it|United States|17349.25|MALE|Accountant|Probation|Secondary
+100812|Mariam Saeed|Mariam|Saeed|| Commercial |QAT|11136.75|1|IT Support|New Hire|diploma
+100813|Nour Kamal|Nour|Kamal|08-11-1975|EHS|pakistan|21,276| m |Environmental Engineer|active|NULL
+100814|Abdullah Smith|Abdullah|Smith|1966/10/16| Operations |Saudi Arabia|QAR 26,784.00|Male|Supply Chain Coordinator| On Leave | PhD 
+100815|Sara Al-Farsi|Sara|Al-Farsi|1987-07-30| Environmental | Qatar |31164.5|Female|Project Manager|CONT|Diploma
+100816|Dina Patel|Dina|Patel|25/08/1971|Operations|India|44,827|F|Environmental Engineer|On Leave|DIP
+100817|Mariam Al-Salem|Mariam|Al-Salem|1999/02/01|ops|AE|29,923|Male|Project Manager|Terminated| Bachelor 
+EMP100818|MAHA MAHMOUD|Maha|Mahmoud|1998-02-07|SCM|Britain|8329.00|female|Environmental Engineer|Inactive|Doctorate
+100819|Omar Jones|Omar|Jones|10-21-1984|HR|saudi arabia|44,972|MALE|Business Analyst|New Hire|NULL
+100820|Mariam Williams|Mariam|Williams|05-Apr-1977|Information Technology|USA|EGP 9,370.50|Male|Accountant|terminated|Master
+100821|Maha Smith|Maha|Smith|1992/04/20|ops|jordan|6158.5|male|Data Engineer|TERM| Master 
+100822|Maha Jones|Maha|Jones|31/02/1988|IT|Philippines|10356|FEMALE|Sales Executive|Active|Dipl.
+100823|Al-Salem, Hassan|Hassan|Al-Salem|10/09/1974|Sales Dept|Qatar|40702.25| m |Supply Chain Coordinator|on leave| Diploma 
+100824| James  Martinez |James|Martinez|03-25-1982|Operation| UAE |EGP 19,108.25|M|HR Specialist| Terminated | Bachelor 
+100825|Mohamed Johnson|Mohamed|Johnson|2000/12/26|Finance|United States|15221|F|Marketing Analyst|active|MBA
+100826|Ahmed Miller|Ahmed|Miller|1971/08/04| Accounting |saudi arabia|33545.75|Male|Supply Chain Coordinator|CONT| PhD 
+100827|Omar Martinez|Omar|Martinez|05-12-1975|Human Resources|egypt|39,133|F|IT Support|Probation|phd
+100828|Sophia Patel|Sophia|Patel|1995-07-25| Supply Chain |Pakistan|18978| f |Business Analyst|On Leave| Master 
+100829|Hamad Al-Kuwari|Hamad|Al-Kuwari|01-19-1970|Fin.| India |24188.5|M|Production Operator|Probation| Master 
+100830|Ahmed Miller|Ahmed|Miller|08-26-1981|FIN|JO|35527.25| f |Business Analyst|ON_LEAVE|DIP
+100831|John Moore|JOHN|Moore|09-27-1999|env.|PAK|24950|FEMALE|Supply Chain Coordinator|Terminated| Master 
+100832|Garcia, Olivia|Olivia|Garcia|1999/01/18|OPS|US|14,184|N/A|Project Manager|ON_LEAVE|MSc
+100833|Michael Al-Harbi|Michael|Al-Harbi|1999/04/03|env.|PAK|26,796|female|Supply Chain Coordinator|External|BSc
+100834|Mahmoud, Laila|Laila|Mahmoud|12-Mar-1970|Supply Chain|SA|EGP 22,436.25|male|Safety Officer|A|Doctorate
+100835|Mariam Al-Salem|Mariam|Al-Salem|25/12/1982| safety |QAT|20238.25|female|Project Manager|Probation|Secondary
+100836|Nour Garcia|Nour|Garcia||Fin.|USA|6650.75|female|Business Analyst|active|diploma
+100837|Faisal Davis|Faisal|Davis|1980/07/01|Marketing|Jordan|5461.5|1|Supply Chain Coordinator|New Hire|phd
+100838|Khalid Taylor|Khalid|Taylor|1979-08-13| production |Saudi Arabia|EGP 5,413.50|FEMALE|Project Manager|A|HS
+100839|Laila Al-Harbi|LAILA|Al-Harbi|12-28-1996|Prod|Philippines|14046.75|MALE|Safety Officer|On Leave|Dipl.
+100840|Mostafa Mahmoud|Mostafa|Mahmoud|31/02/1988|marketting|Pakistan|-36718|Male|Supply Chain Coordinator|terminated| PhD 
+100841|Mostafa Ali|Mostafa|Ali|16-Aug-1984|Health & Safety|Pakistan|30187.5|Female|Supply Chain Coordinator|A|MBA
+100842|Layla Johnson|Layla|Johnson|1972-09-27|Prod|QA|37561.50| f |Data Engineer|Contractor|NULL
+100843|Noora Al-Thani|Noora|Al-Thani|20-Mar-1974|Finance|AE|| f |HR Specialist|External| Diploma 
+100844|Maha Johnson|Maha|Johnson|30-Oct-1991|OPS|EGY|34756.00|M|Accountant| Contractor |BA
+100845|Heba Wilson|Heba|Wilson|17-Jan-1991|Sales Dept|jordan|38820.25|female|Environmental Engineer|terminated|Dipl.
+100846|Hamad Mahmoud|Hamad|Mahmoud|01-21-2000| Marketing | Saudi |EGP 32,098.25| f |Accountant|probation|PHD
+100847|Mohamed Nasser|Mohamed|Nasser|06-Feb-1997|env.| Philippines |N/A|Male|Project Manager|Terminated|NULL
+100848|Mona Williams|Mona|Williams|12-03-1971| Environmental |US|31324| m |IT Support|contractor| Bachelor 
+100849|Abdullah Khan|Abdullah|Khan|1974-01-31|Production|India|QAR 6,755.50|Male|Project Manager|ACT| PhD 
+100850|Laila Jones|Laila|Jones|1975/06/07|SALES|philippines|9389|FEMALE|HR Specialist| On Leave |Diploma
+100851|Aya Al-Farsi|Aya|Al-Farsi|06-24-1972|Marketing|Jordan|42,121|Male|Supply Chain Coordinator|Probation|DIP
+100852| Saad  Nasser |Saad|Nasser|05-09-1998|Safety|USA|5470.5|MALE|Project Manager| Contractor |master
+100853|Ahmed Hassan|Ahmed|Hassan|1987-03-07|Sales| Egypt |17256.5|FEMALE|Data Engineer|TERM|phd
+100854|Sara Mostafa|Sara|Mostafa|1968-08-23|H.R.|qatar|$22,790.25| m |Production Operator|A|MSc
+100855|David Miller|David|Miller|27-Oct-1976|finance| Qatar |EGP 43,403.50|1|Accountant|active|MSc
+100856|Maha Johnson|Maha|Johnson|23/12/1997| Accounting |egypt|14770.25|Male|Accountant|terminated| Master 
+100857| Sophia  Al-Harbi |Sophia|Al-Harbi|1977/03/28|Environment|GB|10,197|FEMALE|Safety Officer|New Hire|high school
+100858|Mostafa Johnson|Mostafa|Johnson|2002-08-20|Production|EG|28864|2|HR Specialist| Contractor |High School
+100859|Omar Al-Farsi|Omar|Al-Farsi|1981/06/22|Sales Dept|United Kingdom|25,999|male|Business Analyst|probation|HS
+100860|Laila Patel|Laila|Patel|17-Jun-1989|Finance|India|6515.25|female|Sales Executive|ON_LEAVE|high school
+100861|James Farouk|James|Farouk|1985-05-20|it| Egypt |$39,855.75|F|HR Specialist|ACT|MBA
+100862|Ahmed Ibrahim|Ahmed|Ibrahim|1989-11-07|Manufacturing|Britain|7824.25| m |Data Engineer|Inactive|Dipl.
+100863|Taylor, David|David|Taylor|12-24-1990| Environmental | usa |11,388|MALE|Project Manager|ACT|Master
+100864|Hassan Kamal|Hassan|Kamal|1985-10-24| IT |IND|17,233|1|Marketing Analyst|contractor|Bachelor
+100865|Ahmed Al-Thani|Ahmed|Al-Thani|1983/12/06|Prod| Qatar |-15214| m |Business Analyst|ACT|Diploma
+100866|AHMED MOSTAFA|Ahmed|Mostafa|1991/11/12|HR|Britain|QAR 30,413.50|Female|Sales Executive|PROB|bachelor
+100867|Dina Williams|Dina|Williams|2000-11-16|Information Technology|IN|EGP 4,999.00| m |Safety Officer| On Leave |BA
+100868|Abdullah Garcia|Abdullah|Garcia|1992-05-14|marketting|EG|18110.25|F|Accountant|ACT|MSc
+100869|Mariam Al-Thani|Mariam|Al-Thani|29-Nov-1973| Environmental | Saudi |EGP 25,623.25|female|Environmental Engineer|New Hire|PHD
+100870|Mariam Al-Kuwari|Mariam|Al-Kuwari|26/03/1982|OPS|UAE|30236.75|Female|Project Manager|ON_LEAVE|Master
+100871| Youssef  Adel |Youssef|Adel|1969-12-14|SALES|PHL|24,460|1|Production Operator|Inactive|phd
+100872|Mostafa Kamal|Mostafa|Kamal||human resources|QA|6786.75| f |Safety Officer|Leave|Bachelor
+100873|Nour Kamal|Nour|Kamal|1992-12-01|human resources|EGY|N/A|female|Sales Executive|New Hire|PhD
+100874|Faisal Nasser|Faisal|Nasser|09-02-2002|IT|Qatar|36635.75|M|Business Analyst|Probation|High School
+100875|Maha Johnson|Maha|Johnson|1994/04/19|PROD|UK|32603| f |Project Manager|active|HS
+100876|Noora Al-Harbi|Noora|Al-Harbi|1995/01/01|Sales|egypt|35531.75|Female|Business Analyst||diploma
+100877|Emily Saeed|Emily|Saeed|1972/07/25|HR|Jordan||1|Accountant|ON_LEAVE|master
+100878|Tamer Khan|Tamer|Khan|03/03/1965|env.|egypt|39,792|Female|Marketing Analyst|External| Bachelor 
+100879|Ali Miller|Ali|Miller|2000/11/25| IT |KSA|QAR 8,105.25|1|HR Specialist| On Leave |Diploma
+100880|Layla Williams|Layla|Williams|1970/06/30|finance|qatar|23362|FEMALE|Supply Chain Coordinator| Contractor | Bachelor 
+100881|Heba Al-Farsi|Heba|Al-Farsi|20/12/1987| Commercial |jordan|22480.25|female|Accountant|New Hire|BSc
+100882|Al-Farsi, Hassan|Hassan|Al-Farsi|1991-01-24|H.R.|UAE|34112|FEMALE|Production Operator|Active|Dipl.
+100883|NOORA AL-KUWARI|Noora|Al-Kuwari|06-Nov-1968|Safety| Jordan |31553.5|2|HR Specialist| Contractor |bachelor
+100884|Dina Patel|Dina|Patel|1984/09/16|ops|india|5,815|MALE|Supply Chain Coordinator| Terminated |bachelor
+100885|Olivia Al-Mansoori|Olivia|Al-Mansoori|1980-04-21|Manufacturing|GB|5048|F|Data Engineer|Terminated|BA
+100886|Robert Moore|Robert|Moore|2001/10/27|Safety|Pakistan|15754.75|female|Environmental Engineer|terminated|high school
+100887|Saad Jones|Saad|Jones|1991/08/25|Environment|UK|41534.5| m |Business Analyst|New Hire|HS
+100888| Khalid  Al-Thani |Khalid|Al-Thani|1983/05/24|Prod|India|EGP 15,016.00|F|Data Engineer|Active| High School 
+100889|Johnson, Noora|Noora|Johnson|1974-02-05| HR |SA|N/A|female|Business Analyst|Level 2|Probation|bachelor
+100890|Michael Garcia|Michael|Garcia|1995-08-01|Finance|PK|42797.50|MALE|Accountant|terminated|bachelor
+100891| Emma  Al-Salem |Emma|Al-Salem||I.T.|UAE|16052.5|FEMALE|Environmental Engineer|Active| High School 
+100892|Mona Al-Kuwari|Mona|Al-Kuwari|1996/02/16| Marketing |QAT|33075.75|M|Marketing Analyst|External|DIP
+100893|Farah Jones|Farah|Jones|1994/04/13|it|US|35840.00|2|Project Manager| Contractor |BSc
+100894|Ali Kamal|Ali|Kamal|06/07/1976|FIN| Qatar |14089.5|N/A|Sales Executive|Leave|phd
+100895|Aisha Moore|Aisha|Moore|1995-03-08|FIN|Pakistan|33771.5|MALE|Production Operator|ACT|PHD
+100896| Karim  Johnson |Karim|Johnson|1988/05/31|Fin.|India|17377|FEMALE|Sales Executive| Terminated |MSc
+100897|Tamer Moore|Tamer|Moore|10-13-1979|ENV| uk |37,586| f |Supply Chain Coordinator|External|High School
+100898|Ali Garcia|ALI|Garcia|1973-12-02|finance| UAE |22884.5|Female|Marketing Analyst|On Leave|Doctorate
+100899|Mona Al-Mansoori|Mona|Al-Mansoori|1974/07/08| safety |IND|28656.75|Female|Sales Executive| Contractor |Doctorate
+100900|Moore, David|David|Moore|12-11-1979|Marketing|Qatar|4202.75| m |Safety Officer| Contractor |MSc
+100901|Karim Mostafa|Karim|Mostafa|1969/10/23|sales|JOR|20847|Female|IT Support|terminated|High School
+EMP100902|Abdullah Farouk|Abdullah|Farouk|14-Apr-1989|ops|United Kingdom|40151| m |Accountant|ON_LEAVE|DIP
+100903|Sara Ibrahim|Sara|Ibrahim|10-03-1967|it|UK|36822.25|1|IT Support|TERM|Doctorate
+100904|Hamad Saeed|Hamad|Saeed|07-08-1968| Marketing |United States|43826.5|M|Safety Officer|Inactive|High School
+100905|James Al-Harbi|James|Al-Harbi|1970/04/11|I.T.|United States|31595.75|Female|Business Analyst|contractor| PhD 
+100906|David Moore|David|Moore|1983-10-07|Sales Dept|Qatar|QAR 29,076.50|female|Production Operator|ON_LEAVE|DIP
+100907|James Taylor|James|Taylor|24/02/1986| Commercial |Jordan|44711.75|1|Sales Executive|A|HS
+100908|Aisha Kamal|Aisha|Kamal|27/01/1991|Environmental| India |41,667|MALE|Supply Chain Coordinator|contractor|Doctorate
+100909|Mariam Martinez-Saeed|Mariam|Martinez|1980/12/02|PROD|United Arab Emirates|23566.00|FEMALE|IT Support|Terminated| Master 
+100910|Mahmoud Davis|Mahmoud|Davis|1997/10/10|MKT|KSA|8,679|2|Environmental Engineer|Terminated|Dipl.
+100911|Mariam Nasser|Mariam|Nasser|1982/08/23|Supply Chain| Philippines |QAR 34,904.00|MALE|Business Analyst|Probation|PhD
+100912|Wilson, Laila|Laila|Wilson|1987-05-16|Prod|EGY|EGP 9,136.50|F|Safety Officer| Probation |Doctorate
+100913|Karim Smith|Karim|Smith|18-Feb-1971| Marketing |india|-29253.75|male|IT Support|terminated| Bachelor 
+100914|Ava Taylor|Ava|Taylor|26-Jun-1978|Operations|KSA|11,358|male|HR Specialist|active|bachelor
+100915|James Al-Farsi|James|Al-Farsi|1976-03-16|EHS|Jordan|33309| m |HR Specialist|Terminated| High School 
+100916|Omar Wilson|Omar|Wilson|02-13-1986|HSE|PHL|21,037|F|Safety Officer| Contractor |Dipl.
+100917|Michael Hassan|Michael|Hassan|29-Mar-1967| Commercial |philippines|9195.25|male|IT Support||PhD
+100918|Tamer Al-Farsi|Tamer|Al-Farsi|2000/02/02|env.|philippines|5784.75|M|IT Support|Contractor|HS
+100919|Ahmed Hassan|Ahmed|Hassan|02/04/1968|finance|United States|8683.5|female|Project Manager|Terminated|MSc
+100920|Tamer Davis|Tamer|Davis|05-01-1993| Environmental |EGY|11789.25|male|Production Operator|Probation|master
+100921|Saad Al-Farsi|Saad|Al-Farsi|03-31-1993| Operations |india|EGP 31,371.25|1|Data Engineer| Active | PhD 
+100922|Laila Mahmoud|Laila|Mahmoud|1981-02-13| safety |QA|41393|1|Data Engineer|TERM|Bachelor
+100923|Khalid Al-Kuwari|Khalid|Al-Kuwari|1967/06/22|Supply Chain|Qatar|38299.75|Male|Sales Executive|PROB|high school
+100924|Faisal Taylor|Faisal|Taylor|11-Apr-1993|Information Technology|SA|22678.75|1|Environmental Engineer|ACT|diploma
+100925|Kamal, Mariam|Mariam|Kamal|01-Oct-1995|Environment|Emirates|33026.50|2|Accountant|Terminated|Diploma
+100926|Tamer Martinez|Tamer|Martinez|16/06/1996|Production|GB|26104|MALE|Project Manager|Probation|Secondary
+100927|Mohamed Nasser|Mohamed|Nasser|08-21-1985| Supply Chain | India |21558.00|MALE|IT Support| Terminated | Diploma 
+100928|Youssef Garcia|Youssef|Garcia|03-04-1986|OPS| Pakistan |28862.5| f |Supply Chain Coordinator|terminated|BA
+100929|Moore, Sophia|Sophia|Moore|1973/09/18|FIN|jordan|38514|male|Accountant| Probation |HS
+100930|Ava Adel|Ava|Adel|1981-11-21|Environment|pakistan|$38,409.75|1|Business Analyst|A|DIP
+100931|Khalid Mahmoud|Khalid|Mahmoud|27-Jun-1980|Safety|IN|$31,378.25| f |Sales Executive|Contractor|Doctorate
+100932|Reem Mostafa|Reem|Mostafa|1980/10/20| Commercial |IN|6664.00|Male|Accountant|External|PhD
+100933|Maha Nasser|Maha|Nasser|1981-08-04|finance|KSA|41,066| f |Sales Executive| Contractor |Diploma
+100934|Emma Al-Farsi|Emma|Al-Farsi|1967-10-22|Operation|egypt|34224.25|M|Environmental Engineer|Active|Doctorate
+100935|Mariam Martinez|Mariam|Martinez|31/07/1974| safety |JO|21866.50| m |Sales Executive|contractor|BSc
+100936|Fatima Williams|Fatima|Williams|21-Oct-2002|MKT|PAK|8,466|M|Project Manager|A|BSc
+100937|Omar Mostafa|Omar|Mostafa|1982/06/30|PROD|egypt|9353.25|2|Environmental Engineer|ACT|Diploma
+100938|Michael Al-Mansoori|Michael|Al-Mansoori|04-25-1970| Accounting |PHL|4054|male|Business Analyst|CONT|master
+100939|Reem Brown|Reem|Brown|26-Oct-1987|sales|GB|23956.5|M|Safety Officer|ACT|Bachelor
+100940|Karim Al-Thani|Karim|Al-Thani||Logistics|pakistan|32222.25| m |Environmental Engineer|Probation|Dipl.
+100941|Dina Al-Thani|Dina|Al-Thani|27/07/1986|ops| Pakistan |37550.25|2|IT Support|ACT|BSc
+100942|Omar Davis|Omar|Davis|16-Feb-2002| production |saudi arabia|33609|FEMALE|Accountant|Inactive|DIP
+100943|LAYLA BROWN|Layla|Brown|1968-07-10|SALES| Egypt |31378.75| f |Safety Officer|Probation|phd
+100944|Laila Patel|Laila|Patel|1975-03-09|supply-chain|Qatar|11539.75|1|Safety Officer|on leave|HS
+100945|Michael Saeed|Michael|Saeed|2001/03/18|Supply Chain| Qatar |8276.5|1|Project Manager|Probation| PhD 
+100946|Karim Farouk|Karim|Farouk|16/11/1975|OPS| usa |35,566| f |Production Operator|PROB| Diploma 
+100947|Aya Taylor|Aya|Taylor|10-Jul-1997| production |saudi arabia||F|Marketing Analyst|terminated| High School 
+100948|Sara Adel|Sara|Adel|04-Nov-1998|it|philippines|6,874| m |Environmental Engineer|terminated|Dipl.
+100949|Tamer Taylor|Tamer|Taylor|1994/04/10| Accounting |india|EGP 12,665.75|1|Marketing Analyst|active|Master
+100950| Layla  Adel |Layla|Adel|10-Dec-1968|it|UAE|4102|Male|Marketing Analyst|ACT|Dipl.
+100951|Fatima Garcia|Fatima|Garcia|31-May-1966| safety |Saudi Arabia|$36,012.25|Female|Project Manager| Contractor |High School
+100952|Aya Al-Mansoori|Aya|Al-Mansoori|30/06/1977|HR|Philippines|$23,395.75|FEMALE|Supply Chain Coordinator|External|diploma
+100953|Mahmoud Al-Kuwari|Mahmoud|Al-Kuwari|1970/07/23|Finance| Jordan |5819.75|MALE|Accountant|on leave|Doctorate
+100954| Emily  Miller |Emily|Miller|31/02/1988|Prod|Qatar|28084|FEMALE|Safety Officer|Terminated|Secondary
+100955|Dina Ibrahim|Dina|Ibrahim|1995-07-09|Fin.|Philippines|44002|female|Business Analyst|Active| Bachelor 
+100956|Abdullah Martinez|Abdullah|Martinez|1965/11/18| Environmental |PHL|17478| f |IT Support|External|PhD
+100957|Hassan Mahmoud|Hassan|Mahmoud|05-20-1976|Health & Safety|JO|EGP 12,776.50|2|Data Engineer|Inactive| Bachelor 
+100958|Mostafa Mostafa|Mostafa|Mostafa|07/04/1989|I.T.|Jordan|43897.25|Female|IT Support|CONT|MSc
+100959|Heba Farouk|Heba|Farouk|04-01-2003|Operations|IND|6341.5|1|IT Support|External|Dipl.
+100960|Youssef Al-Mansoori|Youssef|Al-Mansoori|30-Sep-1986|Supply Chain|PK|EGP 24,469.50|MALE|Environmental Engineer|Leave|diploma
+100961|James Kamal|James|Kamal|28-Nov-1988|EHS|SA|21396.75|FEMALE|Environmental Engineer|active|Secondary
+100962|Hamad Farouk|Hamad|Farouk|12-Oct-1979|Information Technology|Pakistan|4954.25|M|Project Manager|On Leave|BSc
+100963|Abdullah Davis|Abdullah|Davis|1965-04-04| Accounting |egypt|3793| f |HR Specialist|Active| PhD 
+100964|Layla Taylor|Layla|Taylor|26-Jun-1977|Sales Dept|AE|21007.25|Male|Project Manager|on leave|High School
+100965|Sara Mahmoud|Sara|Mahmoud|17-Jan-1968|HSE|US|32645.5|2|Sales Executive|on leave|HS
+100966|Ahmed Ibrahim|Ahmed|Ibrahim|1999-10-23|Finance|Britain|23353.75|1|IT Support| Active |PHD
+100967|Ava Davis|Ava|Davis|14-Jul-2003|Logistics|PK|44381.75|Female|Production Operator|TERM|master
+100968|John Jones|John|Jones|1972/04/08|PROD|UK|6338.25|male|Marketing Analyst|Inactive| Master 
+100969|Mostafa, Ava|Ava|Mostafa|1972/05/29|H.R.|IN|43814.25| f |Data Engineer| Probation |Dipl.
+100970|Ava Al-Kuwari|Ava|Al-Kuwari|10-17-1966|mktg|United Arab Emirates|33842.75|F|Marketing Analyst|External|BSc
+100971|Brown, Hamad|Hamad|Brown|01-13-1979|Sales Dept|Jordan|40240.5|FEMALE|Accountant|Leave|MSc
+100972|SARA PATEL|Sara|Patel|1983/06/02|SALES|United Kingdom|EGP 29,738.75|MALE|HR Specialist|probation| High School 
+100973| Fatima  Al-Kuwari |Fatima|Al-Kuwari|14-Nov-1997|Environmental|PH|14015.75|2|Production Operator|probation|high school
+100974|Heba Al-Kuwari|Heba|Al-Kuwari||Safety|PH|38435.75|MALE|Sales Executive|Contractor|master
+100975|Reem Al-Thani|Reem|Al-Thani|01-31-1970|MKT|Emirates|QAR 35,191.50| m |Production Operator|PROB|Bachelor
+100976|John Al-Mansoori|John|Al-Mansoori|1993/08/25|marketting|JOR|39,903|Male|HR Specialist|terminated|MSc
+100977|Layla Davis|Layla|Davis||marketting|United Arab Emirates|14471.25|Male|Business Analyst|New Hire|Secondary
+100978|Olivia Al-Salem|Olivia|Al-Salem|1989/06/02|Manufacturing|UK|16562|2|Accountant|| Diploma 
+100979|Mariam Patel|Mariam|Patel|04-07-1977| HR |United Arab Emirates|43648| f |IT Support|active|BSc
+100980|Johnson, Saad|Saad|Johnson|07/01/1973|HR|USA|25539|1|Sales Executive|New Hire|Bachelor
+100981|Mostafa Farouk|Mostafa|Farouk|09/01/1974|supply-chain| Saudi |35,402|M|Safety Officer| Probation |High School
+100982|Sara Wilson|Sara|Wilson|19/06/1996|EHS|QA|43315.25|F|Project Manager|contractor|PHD
+100983|Aya Miller|Aya|Miller|1972-03-27|sales|UAE|QAR 42,650.00|M|IT Support|terminated| PhD 
+100984|Sophia Al-Salem|SOPHIA|Al-Salem|28/04/1996| IT |UK|23911.25|MALE|Production Operator|terminated| Bachelor 
+100985|Aya Nasser|Aya|Nasser|1971-02-26|ops|US|28567.75|FEMALE|Business Analyst|On Leave|MBA
+100986|Olivia Ali|Olivia|Ali|04/02/1989|Human Resources| Philippines |15506.5|female|Production Operator|ON_LEAVE|DIP
+100987|Karim Mahmoud|Karim|Mahmoud|1979-12-04|HSE|Pakistan|| f |Sales Executive|probation|Dipl.
+100988|Laila Williams|LAILA|Williams|10-10-1989|Sales|EG|35019.25|M|Environmental Engineer|CONT|phd
+100989|Layla Kamal|Layla|Kamal|18-May-2002|OPS|JO|N/A|male|Sales Executive|TERM|phd
+100990|James Saeed|James|Saeed|20/12/1991|it|AE|5,710|1|Safety Officer|TERM|PhD
+100991|Layla Ibrahim|Layla|Ibrahim|1998/04/22|PROD|pakistan|8352.5|Female|Supply Chain Coordinator|CONT|Bachelor
+100992|Michael Garcia|Michael|Garcia|1990-12-29|ENV|United States|32853.25|Male|Environmental Engineer|on leave|MSc
+100993|Mostafa Mahmoud|Mostafa|Mahmoud|1970-06-27|finance|United Arab Emirates|39151.75|F|Business Analyst|External|Bachelor
+100994|Tamer Jones|Tamer|Jones|28-Aug-1974|IT|QA|$25,034.25|M|IT Support| Terminated |PhD
+100995|Mona Al-Mansoori|MONA|Al-Mansoori|27-Mar-1966|Safety|United States of America|10867.25|N/A|Production Operator| On Leave |BSc
+100996|Tamer Nasser|Tamer|Nasser|18/09/1998|Prod|IN|$31,071.25|1|Supply Chain Coordinator| On Leave |NULL
+EMP100997|Heba Johnson|Heba|Johnson|2001/09/21|Environmental|UAE|43527.5|Female|IT Support|A| PhD 
+100998|Mahmoud Al-Mansoori|Mahmoud|Al-Mansoori|1973-06-01|HSE|PAK|$15,871.50|F|Data Engineer|CONT|bachelor
+100999|Ahmed Miller|Ahmed|Miller|26/04/1984|Logistics|qatar|35,405|female|Accountant|contractor|HS
+101000|Dina Al-Kuwari|Dina|Al-Kuwari|1975-07-08| safety |India|19,827|F|Safety Officer|Active|Bachelor
